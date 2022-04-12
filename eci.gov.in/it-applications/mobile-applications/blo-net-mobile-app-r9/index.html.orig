@@ -1,0 +1,3770 @@
+<!DOCTYPE html><html lang="en-IN" dir="ltr"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.2/css/swiper.min.css">
+<head><meta name="google-site-verification" content="Yjr9lGbtCxqzPmDMDV0zkMcVEvc-Thsgniusravt2jA">
+<meta charset="utf-8">
+<title>BLO Net Mobile App - Mobile Applications - Election Commission of India</title>
+		
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXVG15JR85"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXVG15JR85');
+</script>
+		
+		
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+	<meta name="twitter:card" content="summary_large_image" />
+
+
+	
+		<meta name="twitter:site" content="@ecisveep" />
+	
+
+
+	
+		
+			
+				<meta property="og:title" content="BLO Net Mobile App">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:type" content="website">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:url" content="https://eci.gov.in/it-applications/mobile-applications/blo-net-mobile-app-r9/">
+			
+		
+	
+
+	
+		
+			
+				<meta name="description" content="Booth Level officers used to verify and collect details of electors and probable electors through visiting each and every elector and collecting their papers for any kind of services required by them. There are more than a million BLOs across the country. As no online system or mobile App was pre...">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:description" content="Booth Level officers used to verify and collect details of electors and probable electors through visiting each and every elector and collecting their papers for any kind of services required by them. There are more than a million BLOs across the country. As no online system or mobile App was pre...">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:updated_time" content="2020-02-18T10:58:55Z">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:image" content="https://eci.gov.in/uploads/monthly_2020_02/347670739_blonet-mobileapp.PNG.a70cafcfece8c681188990b766a842d9.PNG">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:site_name" content="Election Commission of India">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:locale" content="en_IN">
+			
+		
+	
+
+
+	
+		<link rel="canonical" href="https://eci.gov.in/it-applications/mobile-applications/blo-net-mobile-app-r9/" />
+	
+
+<link rel="alternate" type="application/rss+xml" title="Election Commission of India" href="https://eci.gov.in/rss/1-election-commission-of-india.xml/" />
+
+
+<link rel="manifest" href="https://eci.gov.in/manifest.webmanifest/">
+<meta name="msapplication-config" content="https://eci.gov.in/browserconfig.xml/">
+<meta name="msapplication-starturl" content="/home/">
+<meta name="application-name" content="">
+
+<meta name="apple-mobile-web-app-title" content="">
+
+	<meta name="theme-color" content="#000000">
+
+
+	<meta name="msapplication-TileColor" content="#000000">
+
+
+
+
+
+	
+
+	
+		
+			<link rel="icon" sizes="36x36" href="https://eci.gov.in/uploads/monthly_2021_09/android-chrome-36x36.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="48x48" href="https://eci.gov.in/uploads/monthly_2021_09/android-chrome-48x48.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="72x72" href="https://eci.gov.in/uploads/monthly_2021_09/android-chrome-72x72.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="96x96" href="https://eci.gov.in/uploads/monthly_2021_09/android-chrome-96x96.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="144x144" href="https://eci.gov.in/uploads/monthly_2021_09/android-chrome-144x144.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="192x192" href="https://eci.gov.in/uploads/monthly_2021_09/android-chrome-192x192.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="256x256" href="https://eci.gov.in/uploads/monthly_2021_09/android-chrome-256x256.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="384x384" href="https://eci.gov.in/uploads/monthly_2021_09/android-chrome-384x384.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="512x512" href="https://eci.gov.in/uploads/monthly_2021_09/android-chrome-512x512.png">
+		
+	
+
+	
+		
+			<meta name="msapplication-square70x70logo" content="https://eci.gov.in/uploads/monthly_2021_09/msapplication-square70x70logo.png"/>
+		
+	
+
+	
+		
+			<meta name="msapplication-TileImage" content="https://eci.gov.in/uploads/monthly_2021_09/msapplication-TileImage.png"/>
+		
+	
+
+	
+		
+			<meta name="msapplication-square150x150logo" content="https://eci.gov.in/uploads/monthly_2021_09/msapplication-square150x150logo.png"/>
+		
+	
+
+	
+		
+			<meta name="msapplication-wide310x150logo" content="https://eci.gov.in/uploads/monthly_2021_09/msapplication-wide310x150logo.png"/>
+		
+	
+
+	
+		
+			<meta name="msapplication-square310x310logo" content="https://eci.gov.in/uploads/monthly_2021_09/msapplication-square310x310logo.png"/>
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" href="https://eci.gov.in/uploads/monthly_2021_09/apple-touch-icon-57x57.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="60x60" href="https://eci.gov.in/uploads/monthly_2021_09/apple-touch-icon-60x60.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="72x72" href="https://eci.gov.in/uploads/monthly_2021_09/apple-touch-icon-72x72.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="76x76" href="https://eci.gov.in/uploads/monthly_2021_09/apple-touch-icon-76x76.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="114x114" href="https://eci.gov.in/uploads/monthly_2021_09/apple-touch-icon-114x114.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="120x120" href="https://eci.gov.in/uploads/monthly_2021_09/apple-touch-icon-120x120.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="144x144" href="https://eci.gov.in/uploads/monthly_2021_09/apple-touch-icon-144x144.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="152x152" href="https://eci.gov.in/uploads/monthly_2021_09/apple-touch-icon-152x152.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="180x180" href="https://eci.gov.in/uploads/monthly_2021_09/apple-touch-icon-180x180.png">
+			
+		
+	
+
+
+
+
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-touch-fullscreen" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+
+	
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 568px) and (device-height: 320px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-1136x640.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 812px) and (device-height: 375px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-2436x1125.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 896px) and (device-height: 414px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-1792x828.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-828x1792.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 667px) and (device-height: 375px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-1334x750.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-1242x2688.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 736px) and (device-height: 414px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-2208x1242.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-1125x2436.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-1242x2208.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 1366px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-2732x2048.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 896px) and (device-height: 414px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-2688x1242.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 1112px) and (device-height: 834px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-2224x1668.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-750x1334.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-2048x2732.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 1194px) and (device-height: 834px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-2388x1668.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-1668x2224.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-640x1136.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-1668x2388.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 1024px) and (device-height: 768px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-2048x1536.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-1536x2048.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 820px) and (device-height: 1180px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-2360x1640.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 1180px) and (device-height: 820px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-1640x2360.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 810px) and (device-height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-2160x1620.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 1080px) and (device-height: 810px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-1620x2160.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 926px) and (device-height: 428px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-2778x1284.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-1284x2778.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 844px) and (device-height: 390px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-2532x1170.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-1170x2532.png">
+		
+	
+		
+			<link rel="apple-touch-startup-image" media="screen and (device-width: 780px) and (device-height: 360px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://eci.gov.in/uploads/monthly_2021_09/apple-startup-2340x1080.png">
+		
+	
+
+
+<link rel="preload" href="//eci.gov.in/applications/core/interface/font/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin="anonymous">
+		
+
+
+	
+		<link href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,500,700,700i" rel="stylesheet" referrerpolicy="origin">
+	
+
+
+
+	<link rel='stylesheet' href='https://eci.gov.in/uploads/css_built_26/341e4a57816af3ba440d891ca87450ff_framework.css?v=885e69150d1646648658' media='all'>
+
+	<link rel='stylesheet' href='https://eci.gov.in/uploads/css_built_26/05e81b71abe4f22d6eb8d1a929494829_responsive.css?v=885e69150d1646648658' media='all'>
+
+	<link rel='stylesheet' href='https://eci.gov.in/uploads/css_built_26/20446cf2d164adcc029377cb04d43d17_flags.css?v=885e69150d1646648658' media='all'>
+
+	<link rel='stylesheet' href='https://eci.gov.in/uploads/css_built_26/0782d83dae5df26e7a323b16d304270e_swiperslider.css?v=885e69150d1646648658' media='all'>
+
+	<link rel='stylesheet' href='https://eci.gov.in/uploads/css_built_26/8a8d8f4bfb9e8b7e1b0718ebca44bd7c_advancedfooter.css?v=885e69150d1646648658' media='all'>
+
+	<link rel='stylesheet' href='https://eci.gov.in/uploads/css_built_26/90eb5adf50a8c640f633d47fd7eb1778_core.css?v=885e69150d1646648658' media='all'>
+
+	<link rel='stylesheet' href='https://eci.gov.in/uploads/css_built_26/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css?v=885e69150d1646648658' media='all'>
+
+	<link rel='stylesheet' href='https://eci.gov.in/uploads/page_objects/bootstrap4.css.e98ba2f0eeec12d6b0b7d0de0ee8645c.css?v=885e69150d1646648658' media='all'>
+
+	<link rel='stylesheet' href='https://eci.gov.in/uploads/page_objects/style.css.be062d1213306c595430def5f09c9f8c.css?v=885e69150d1646648658' media='all'>
+
+	<link rel='stylesheet' href='https://eci.gov.in/uploads/css_built_26/9037af43189dec1f1ca4d162227a3350_record.css?v=885e69150d1646648658' media='all'>
+
+	<link rel='stylesheet' href='https://eci.gov.in/uploads/css_built_26/97c0a48072ce601c9764cb6b00a6588a_page.css?v=885e69150d1646648658' media='all'>
+
+
+
+
+
+<link rel='stylesheet' href='https://eci.gov.in/uploads/css_built_26/258adbb6e4f3e83cd3b355f84e3fa002_custom.css?v=885e69150d1646648658' media='all'>
+
+
+
+
+		
+		
+
+	
+	<link rel='shortcut icon' href='https://eci.gov.in/uploads/monthly_2018_12/favicon.ico.611e985e6b1b537a2ed8442a86ff19e4.ico' type="image/x-icon">
+
+	</head><body class="ipsApp ipsApp_front ipsJS_has ipsClearfix cCmsDatabase_itapps" data-controller="core.front.core.app"  data-message=""  data-pageapp="cms" data-pagelocation="front" data-pagemodule="pages" data-pagecontroller="page" data-pageid="9"  >
+	
+
+	<div id='top-bar-app' class="ipsResponsive_hideDesktop">
+	
+	
+<style>
+.vertical-center {
+  margin: 0;  
+  top: 10%;
+}
+</style>
+<div  style="height:45px; background:#056565;">
+<div class='ipsGrid'>
+	<div class='ipsGrid_span2'style="text-align:center ;"><img src="/img/voterapp30.png" style="margin-top:7px"></div>
+	<div class='ipsGrid_span4 vertical-center' style="text-align:left;  margin-left:0px;"><span style="color:#fff; font-size:14px; position:absolute; margin-top:14px;"> Voter Helpline App</span></div>
+	<div class='ipsGrid_span6' style="text-align:right; padding-left:10px;"><a class="ipsButton ipsButton_verySmall ipsButton_primary" href="https://play.google.com/store/apps/details?id=com.eci.citizen&hl=en" style="line-height:25px; background:#083e54;  margin-top:10px; padding-left:10px; padding-right:10px">Android</a> &nbsp;&nbsp;<a class="ipsButton ipsButton_verySmall ipsButton_primary" href="https://apps.apple.com/us/app/voter-helpline/id1456535004" style="line-height:25px; background:#083e54;  margin-top:10px; margin-right: -15px; padding-left:10px; padding-right:10px">iOS</a></div>
+	
+</div>
+</div>
+</div>
+
+
+	
+      
+
+	<div id='top-bar-screen-reader' class="ipsResponsive_hidePhone">
+	
+	
+ 
+
+
+<script>
+  function resizeText(multiplier) {
+  if (document.body.style.fontSize == "") {
+    document.body.style.fontSize = "1.0em";
+  }
+  document.body.style.fontSize = parseFloat(document.body.style.fontSize) + (multiplier * 0.2) + "em";
+}
+</script>
+<Span class="ipsResponsive_hidePhone">
+<a href="https://hindi.eci.gov.in/" style="color:#fff"> हिंदी में देखें </a> &nbsp; <span style="color:#fff">|</span>	 &nbsp; <a accesskey="m" href="#elContent" rel="" style="color:#fff" title="{lang=&quot;jump_to_content_desc&quot;}">Skip to main content</a> &nbsp; <span style="color:#fff">|</span> &nbsp; <a href="/screen-reader-access/" style="color:#fff"> Screen Reader Access</a> &nbsp; <span style="color:#fff">|</span> &nbsp; <a id="minustext" onclick="resizeText(-1)" rel="" style="cursor:pointer; color:#fff">A-</a> &nbsp; <span style="color:#fff">|</span> &nbsp; <a id="plustext" onclick="resizeText(1)" rel="" style=" cursor:pointer;color:#fff">A+</a>
+</span> &nbsp; <span style="color:#fff">|</span> &nbsp;
+
+
+	
+		
+			<a href='#elNavTheme_menu' id='elNavTheme' data-ipsMenu data-ipsMenu-above style=" cursor:pointer;color:#fff">Theme <i class='fa fa-caret-down'></i></a>
+			<ul id='elNavTheme_menu' class='ipsMenu ipsMenu_selectable ipsHide'>
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//eci.gov.in/theme/?csrfKey=57f642b69cefba9654cb6eb929987a91" method="post">
+						<button type='submit' name='id' value='23' class='ipsButton ipsButton_link ipsButton_link_secondary'>Modern 4.5 </button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//eci.gov.in/theme/?csrfKey=57f642b69cefba9654cb6eb929987a91" method="post">
+						<button type='submit' name='id' value='25' class='ipsButton ipsButton_link ipsButton_link_secondary'>High Contrast 4.7 </button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item ipsMenu_itemChecked'>
+						<form action="//eci.gov.in/theme/?csrfKey=57f642b69cefba9654cb6eb929987a91" method="post">
+						<button type='submit' name='id' value='26' class='ipsButton ipsButton_link ipsButton_link_secondary'>Modern 4.7 (Default)</button>
+						</form>
+					</li>
+				
+			
+			</ul>
+	
+	
+</div>
+
+
+
+	
+      <a href="#ipsLayout_mainArea" class="ipsHide" title="Go to main content on this page" accesskey="m">Jump to content</a>
+		
+			<div id="ipsLayout_header" class="ipsClearfix">
+				
+
+
+
+
+				<header><div class="ipsLayout_container">
+						
+
+
+<a href='https://eci.gov.in/' id='elLogo' accesskey='1'><img src="https://eci.gov.in/uploads/monthly_2021_09/logo.png.829b3416fb87a2de458726dbefb72fd7.png" alt='Election Commission of India'></a>
+
+						
+
+	<ul id="elUserNav" class="ipsList_inline cSignedOut ipsResponsive_showDesktop">
+<li>
+        
+
+	<div id="elSearchWrapper">
+		<div id='elSearch' class='' data-controller='core.front.core.quickSearch'>
+			<form accept-charset='utf-8' action='//eci.gov.in/search/?do=quicksearch' method='post'>
+				<input type='search' id='elSearchField' placeholder='Search...' name='q' autocomplete='off' aria-label='Search'>
+				<button class='cSearchSubmit' type="submit" aria-label='Search'><i class="fa fa-search"></i></button>
+				<div id="elSearchExpanded">
+					<div class="ipsMenu_title">
+						Search In
+					</div>
+					<ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-role="searchContexts">
+						<li>
+							<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='all'>
+								<input type="radio" name="type" value="all" checked id="elQuickSearchRadio_type_all">
+								<label for='elQuickSearchRadio_type_all' id='elQuickSearchRadio_type_all_label'>Everywhere</label>
+							</span>
+						</li>
+						
+						
+							<li>
+								<span class='ipsSideMenu_item' data-ipsMenuValue='cms_records21'>
+									<input type="radio" name="type" value="cms_records21" id="elQuickSearchRadio_type_cms_records21">
+									<label for='elQuickSearchRadio_type_cms_records21' id='elQuickSearchRadio_type_cms_records21_label'>ECI IT Applications</label>
+								</span>
+							</li>
+						
+						
+							
+								<li>
+									<span class='ipsSideMenu_item' data-ipsMenuValue='contextual_{&quot;type&quot;:&quot;cms_records21&quot;,&quot;nodes&quot;:77}'>
+										<input type="radio" name="type" value='contextual_{&quot;type&quot;:&quot;cms_records21&quot;,&quot;nodes&quot;:77}' id='elQuickSearchRadio_type_contextual_177608a1ab6af4ee10869b3308dadc96'>
+										<label for='elQuickSearchRadio_type_contextual_177608a1ab6af4ee10869b3308dadc96' id='elQuickSearchRadio_type_contextual_177608a1ab6af4ee10869b3308dadc96_label'>This Category</label>
+									</span>
+								</li>
+							
+								<li>
+									<span class='ipsSideMenu_item' data-ipsMenuValue='contextual_{&quot;type&quot;:&quot;cms_records21&quot;,&quot;item&quot;:9}'>
+										<input type="radio" name="type" value='contextual_{&quot;type&quot;:&quot;cms_records21&quot;,&quot;item&quot;:9}' id='elQuickSearchRadio_type_contextual_3d9591a630577557d7f8af3a27d466cf'>
+										<label for='elQuickSearchRadio_type_contextual_3d9591a630577557d7f8af3a27d466cf' id='elQuickSearchRadio_type_contextual_3d9591a630577557d7f8af3a27d466cf_label'>This ECI IT Applications</label>
+									</span>
+								</li>
+							
+						
+						<li data-role="showMoreSearchContexts">
+							<span class='ipsSideMenu_item' data-action="showMoreSearchContexts" data-exclude="cms_records21">
+								More options...
+							</span>
+						</li>
+					</ul>
+					<div class="ipsMenu_title">
+						Find results that contain...
+					</div>
+					<ul class='ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal' role="radiogroup" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-filterType='andOr'>
+						
+							<li>
+								<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='and'>
+									<input type="radio" name="search_and_or" value="and" checked id="elRadio_andOr_and">
+									<label for='elRadio_andOr_and' id='elField_andOr_label_and'><em>All</em> of my search term words</label>
+								</span>
+							</li>
+						
+							<li>
+								<span class='ipsSideMenu_item ' data-ipsMenuValue='or'>
+									<input type="radio" name="search_and_or" value="or"  id="elRadio_andOr_or">
+									<label for='elRadio_andOr_or' id='elField_andOr_label_or'><em>Any</em> of my search term words</label>
+								</span>
+							</li>
+						
+					</ul>
+					<div class="ipsMenu_title">
+						Find results in...
+					</div>
+					<ul class='ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal' role="radiogroup" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-filterType='searchIn'>
+						<li>
+							<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='all'>
+								<input type="radio" name="search_in" value="all" checked id="elRadio_searchIn_and">
+								<label for='elRadio_searchIn_and' id='elField_searchIn_label_all'>Content titles and body</label>
+							</span>
+						</li>
+						<li>
+							<span class='ipsSideMenu_item' data-ipsMenuValue='titles'>
+								<input type="radio" name="search_in" value="titles" id="elRadio_searchIn_titles">
+								<label for='elRadio_searchIn_titles' id='elField_searchIn_label_titles'>Content titles only</label>
+							</span>
+						</li>
+					</ul>
+				</div>
+			</form>
+		</div>
+	</div>
+ 
+     </li>
+      <li class="alerts-border" style="padding: 10px; background: #ffe60a; border-radius: 5px;">
+<a href="https://hindi.eci.gov.in/" style="font-size:18px; color: #083e54;"><strong>हिंदी में देखें</strong></a>
+</li>
+		
+       
+     
+		
+	
+
+
+	<li class='cUserNav_icon ipsHide' id='elCart_container'></li>
+	<li class='elUserNav_sep ipsHide' id='elCart_sep'></li>
+
+<li id="elSignInLink">
+			<a href="https://eci.gov.in/ssh1211/" data-ipsmenu-closeonclick="false" data-ipsmenu id="elUserSignIn">
+				Existing user? Sign In  <i class="fa fa-caret-down"></i>
+			</a>
+			
+<div id='elUserSignIn_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+	<form accept-charset='utf-8' method='post' action='https://eci.gov.in/ssh1211/'>
+		<input type="hidden" name="csrfKey" value="57f642b69cefba9654cb6eb929987a91">
+		<input type="hidden" name="ref" value="aHR0cHM6Ly9lY2kuZ292LmluL2l0LWFwcGxpY2F0aW9ucy9tb2JpbGUtYXBwbGljYXRpb25zL2Jsby1uZXQtbW9iaWxlLWFwcC1yOS8=">
+		<div data-role="loginForm">
+			
+			
+			
+				
+<div class="ipsPad ipsForm ipsForm_vertical">
+	<h4 class="ipsType_sectionHead">Sign In</h4>
+	<br><br>
+	<ul class='ipsList_reset'>
+		<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+			
+			
+				<input type="email" placeholder="Email Address" name="auth" autocomplete="email">
+			
+		</li>
+		<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+			<input type="password" placeholder="Password" name="password" autocomplete="current-password">
+		</li>
+		<li class="ipsFieldRow ipsFieldRow_checkbox ipsClearfix">
+			<span class="ipsCustomInput">
+				<input type="checkbox" name="remember_me" id="remember_me_checkbox" value="1" checked aria-checked="true">
+				<span></span>
+			</span>
+			<div class="ipsFieldRow_content">
+				<label class="ipsFieldRow_label" for="remember_me_checkbox">Remember me</label>
+				<span class="ipsFieldRow_desc">Not recommended on shared computers</span>
+			</div>
+		</li>
+		<li class="ipsFieldRow ipsFieldRow_fullWidth">
+			<button type="submit" name="_processLogin" value="usernamepassword" class="ipsButton ipsButton_primary ipsButton_small" id="elSignIn_submit">Sign In</button>
+			
+				<p class="ipsType_right ipsType_small">
+					
+						<a href='https://eci.gov.in/lostpassword/' data-ipsDialog data-ipsDialog-title='Forgot your password?'>
+					
+					Forgot your password?</a>
+				</p>
+			
+		</li>
+	</ul>
+</div>
+			
+		</div>
+	</form>
+</div>
+		</li>
+		
+	</ul>
+
+						
+<ul class='ipsMobileHamburger ipsList_reset ipsResponsive_hideDesktop'>
+	<li data-ipsDrawer data-ipsDrawer-drawerElem='#elMobileDrawer'>
+		<a href='#'>
+			
+			
+			
+			
+			<i class='fa fa-navicon'></i>
+		</a>
+	</li>
+</ul>
+					</div>
+				</header>
+				
+<style type="text/css">
+	.header1{background-color: #083e54; padding: 5px 10px !important; position: fixed; width: 100%; display: block; z-index:10001; top:0;}
+	.header1 .menu-btn{color: #fff; text-transform: uppercase; font-size: 1.3rem; cursor: pointer;}
+	.header1 .menu-btn > i{margin-left: 0.5rem; top:5px}
+  .close-menu {height: 30px; line-height: 30px; position: absolute; right: 20px; text-align: center; top: 7px; width: 30px; z-index: 9999; border-radius: 100%; -moz-border-radius: 100%; -webkit-border-radius: 100%; -o-border-radius: 100%; -ms-border-radius: 100%; }
+	.header1 .main-menu { position: absolute; width: 98%; background-color: #122a55eb; top: auto; left: 0; right: 0; display: none; margin: auto; padding: 1.5rem;}
+	.header1 .main-menu .menu-list{display: block; padding: 1.5rem;}
+	.main-menu > .row{ margin-right: 0px; margin-left: 0px; z-index:10000;}
+	.main-menu .menu-link{margin-bottom: 1.5rem;}
+	.menu-link a{color: #fff;}
+    .menu-link a:hover{color: #d4ebfd;}
+	.menu-link > h4{text-transform: uppercase;}
+	.menu-link ul{list-style-type: none; padding: 0 0.5rem;}
+	.menu-link ul > li{text-transform: capitalize; line-height: 28px;}
+  .menu-link ul > li i {color:#fff; margin-right:5px}
+  .menu-link h4{margin: 5px 5px;}
+   .menu-link h4 a{color:#fbca38;}
+	
+</style>
+	
+
+<div class="header1 hidden-sm-down hidden-sm visible-lg visible-md d-none d-xl-block d-lg-block d-md-block ipsResponsive_hidePhone ipsResponsive_hideTablet ipsResponsive_showDesktop ipsResponsive_block">
+  <div class="ipsLayout_container" style="background:rgba(0,0,0, 0.0)">
+  <span class="menu-btn">Menu<i class="fa fa-bars" aria-hidden="true"></i></span><div class="ipsResponsive_hidePhone pull-right">
+	   <a href="https://hindi.eci.gov.in/" style="color:#f4eca2"> हिंदी में देखें </a>&nbsp;<span style="color:#fff">|</span>&nbsp;<a href="/contact-us/ngsp/national-grievance-services-portal-r3/" style="color:#fff"> Toll-Free 1950 </a>&nbsp;<span style="color:#fff">|</span>&nbsp; <a accesskey="m" href="#elContent" rel="" style="color:#fff" title="Go to main content on this page">Skip to main content</a>   <span style="color:#fff">|</span>   <a href="/screen-reader-access/" style="color:#fff"> Screen Reader Access</a>   <span style="color:#fff">|</span>   <a id="minustext" onclick="resizeText(-1)" rel="" style="cursor:pointer; color:#fff">A-</a>   <span style="color:#fff">|</span>   <a id="plustext" onclick="resizeText(1)" rel="" style=" cursor:pointer;color:#fff">A+</a>
+  <span style="color:#fff">|</span> 
+	
+		
+			<a href='#elNavTheme_menu' id='elNavTheme' data-ipsMenu data-ipsMenu-above style=" cursor:pointer;color:#fff">Theme <i class='fa fa-caret-down'></i></a>
+			<ul id='elNavTheme_menu' class='ipsMenu ipsMenu_selectable ipsHide'>
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//eci.gov.in/theme/?csrfKey=57f642b69cefba9654cb6eb929987a91" method="post">
+						<button type='submit' name='id' value='23' class='ipsButton ipsButton_link ipsButton_link_secondary'>Modern 4.5 </button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//eci.gov.in/theme/?csrfKey=57f642b69cefba9654cb6eb929987a91" method="post">
+						<button type='submit' name='id' value='25' class='ipsButton ipsButton_link ipsButton_link_secondary'>High Contrast 4.7 </button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item ipsMenu_itemChecked'>
+						<form action="//eci.gov.in/theme/?csrfKey=57f642b69cefba9654cb6eb929987a91" method="post">
+						<button type='submit' name='id' value='26' class='ipsButton ipsButton_link ipsButton_link_secondary'>Modern 4.7 (Default)</button>
+						</form>
+					</li>
+				
+			
+			</ul>
+	
+	 </div> 
+
+
+   <div class="main-menu">
+	 <span class="menu-btn pull-right close-menu"><i class="fa fa-window-close" aria-hidden="true"></i></span>  
+     <div class='ipsGrid'>
+	<div class='ipsGrid_span3'>	
+		<div class="menu-link">   
+		 <h4><a href="/voter/voter/">ELECTORS</a></h4>  
+		 <ul>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='https://voterportal.eci.gov.in/' target='_blank' rel="noopener">
+					Register to Vote 
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='https://voterportal.eci.gov.in/' target='_blank' rel="noopener">
+					Confirm your voter registration status
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='https://electoralsearch.in/' target='_blank' rel="noopener">
+					Know your polling booth
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='/voter/service-overseas-voter/' >
+					Service voter & Overseas voter
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='https://play.google.com/store/apps/developer?id=Election+Commission+of+India' target='_blank' rel="noopener">
+					ECI APPs Store
+				</a></li>
+           <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='/files/category/356-forms-for-registration-in-e-roll/' target='_blank' rel="noopener">
+					Forms for Registration in E-Roll
+				</a></li>
+		 </ul>
+	    </div><!-- End Of menu-link Div -->   
+		 
+       </div>
+	<div class='ipsGrid_span3'>
+       
+		<div class="menu-link">   
+	 <h4> </h4> 
+		 <ul>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='https://eci-citizenservices.eci.nic.in/' target='_blank' rel="noopener">
+					Register Complaint
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='https://eci-citizenservices.eci.nic.in/default.aspx' target='_blank' rel="noopener">
+					Know your status of complaint
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='http://www.youtube.com/eci' target='_blank' rel="noopener">
+					Voter Education Channel
+				</a></li>
+                <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='http://servicevoter.nic.in/' target='_blank' rel="noopener" >
+					Service Voters
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='/voter/overseas-electors/' >
+					Overseas Voters
+				</a></li>
+		 	
+           <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='http://ecisveep.nic.in/' target='_blank' rel="noopener" >
+					Voter Education
+				</a></li>
+           <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='https://eci.gov.in/e-epic/'target='_blank' rel="noopener">
+             Download e-EPIC</a>
+
+           </li>
+		 </ul>
+	    </div><!-- End Of menu-link Div -->   
+		
+       </div>
+	<div class='ipsGrid_span3'>
+     
+		<div class="menu-link">   
+		 <h4><a href="/elections/election/"  data-navItem-id="37" >
+					Election
+				</a></h4>  
+		 <ul> 
+     <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/elections/currentelections/"  data-navItem-id="38" >
+					Current Elections
+				</a></li>
+			<!--    <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/general-election/general-elections-2019/"  data-navItem-id="38" >
+					General Election 2019
+				</a></li>-->
+			 
+
+		
+           <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/elections/future-elections/"  data-navItem-id="40" >
+					Future Elections
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='/assembly-election/assembly-election/' >
+					Past Assembly Elections
+				</a></li>
+			 <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='/general-election/general-election/' >
+					Past Parliamentary Elections
+				</a></li>
+
+		 <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='/bye-election/bye-elections/' >
+					Past Bye Elections
+				</a></li>
+
+                <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='/elections/term-of-houses' >
+					Term of the Houses
+				</a></li>
+		 	
+		 </ul>
+	    </div><!-- End Of menu-link Div -->   
+		 
+       </div>
+	<div class='ipsGrid_span3'>
+      
+		<div class="menu-link">   
+	 <h4> </h4> 
+		 <ul>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/statistical-report/statistical-reports/"  data-navItem-id="41" >
+					Results and Statistics
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/electoral-roll/electoral-roll/"  data-navItem-id="114" >
+					Electoral Roll
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/election-laws/election-law/"  data-navItem-id="59" >
+					Election Law 
+				</a></li>
+                <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/election-manifestos/"  data-navItem-id="59" >
+					Election Manifestos  
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/mcc/"  data-navItem-id="60" >
+					Model Code of Conduct
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='/judicial-reference/' >
+					 Judicial Reference
+				</a></li>
+		 </ul>
+	    </div><!-- End Of menu-link Div -->   
+		 
+      
+      
+       </div>
+</div>
+	   
+	   <div class='ipsGrid'>
+		   <div class='ipsGrid_span3'>
+       <div class="menu-link">    
+		 <h4><a href="/candidate-political-parties/candidate-politicalparties/"  data-navItem-id="51" >
+					Candidate/Political Parties
+				</a></h4>
+		 
+
+		 <ul>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/candidate-political-parties/nomination-related-forms/"  data-navItem-id="52" >
+					Candidate Nomination &amp; other Forms
+				</a></li>
+           <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="https://affidavit.eci.gov.in/" target="_blank"  data-navItem-id="53" >
+					Candidate Affidavit Portal
+				</a></li>
+		 
+           <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/candidate-political-parties/link-to-candidate-affidavits/"  data-navItem-id="54" >
+					Links to Candidate Affidavits 
+				</a></li>
+           <!-- <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/files/category/1139-affidavit-verification-reports/"  data-navItem-id="54" >
+					Affidavit Verification Reports 
+				</a></li>-->
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/candidate-political-parties/political-parties-registration/"  data-navItem-id="55" >
+					Political Parties Registration
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/candidate-political-parties/election-symbol/"  data-navItem-id="56" >
+					Political Parties &amp; Election Symbol
+				</a></li>
+           	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/candidate-political-parties/instructions-on-covid-19/"  data-navItem-id="56" >
+					Instructions on Covid-19
+				</a></li>
+		 </ul>
+	    </div><!-- End Of menu-link Div -->   
+		  
+       </div>
+	
+	<div class='ipsGrid_span3'>
+       
+		<div class="menu-link">   
+ <h4><a href="/media-publication/media-publication/"  data-navItem-id="79" >
+					Media & Publication
+				</a></h4>
+		 <ul>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/statistical-report/statistical-reports/"  data-navItem-id="80" >
+					Election Results & Statistics
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/media-publication/publication/"  data-navItem-id="81" >
+					ECI Publications
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/files/category/8-compendium-of-instructions/"  data-navItem-id="83" >
+					Compendium of Instructions
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/election-laws/election-law/"  data-navItem-id="85" >
+					Handbooks/Manuals/Model Check List
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/statistical-report/pocket-book-2017/"  data-navItem-id="86" >
+					Electoral Statistics Pocket Book 2017
+				</a></li>
+		 </ul>
+	    </div><!-- End Of menu-link Div -->   
+		  
+       </div>
+		   <div class='ipsGrid_span3'>
+		<div class="menu-link">   
+	 <h4><a href="#"><a href="/evm/"  data-navItem-id="46" >
+					EVM/VVPAT
+				</a></a></h4> 
+		 <ul>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/faqs/evm/general-qa/faqs-electronic-voting-machine-r2/"  data-navItem-id="47" >
+					FAQs on EVM
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/files/file/9228-evm-credibility-technological-and-administrative-safeguards/"  data-navItem-id="48" >
+					Presentation on EVM
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/files/file/8756-status-paper-on-evm-edition-3/"  data-navItem-id="49" >
+					Status Paper on EVM
+				</a></li>
+           <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/files/file/13911-manual-on-electronic-voting-machine-and-vvpat-december-2021/"  data-navItem-id="49" >
+					Manual on EVM and VVPAT
+				</a></li>
+		 	<!--<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href="/video-gallery/"  data-navItem-id="50" >
+					Training Films
+				</a></li>-->
+		 	
+		 </ul>
+	    </div><!-- End Of menu-link Div -->   
+		 
+       </div>
+	
+	<div class='ipsGrid_span3'>
+       <div class="menu-link">    
+		 <h4><a href="/eci-officials/"  data-navItem-id="90" >
+					ECI Officials
+				</a></h4>
+	
+
+		 <ul>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='/eci-officials/'>
+					Quick Links for ECI Officials
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='/important-instructions/' >
+					Important Instructions
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='/contact-us/directory/' >
+					ECI Officials Contact Detail
+				</a></li>
+		 	<li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='/divisions-of-eci/divisions-of-eci/' >
+					Divisions of ECI
+				</a></li>
+           <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='https://eci.eoffice.gov.in/' target='_blank' rel="noopener">
+					E-Office
+				</a></li>
+		 	 <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='https://email.gov.in/' target='_blank' rel="noopener">
+					ECI Mail Service
+				</a></li>
+          <!-- <li><i class="fa fa-angle-right" aria-hidden="true"></i><a href='/files/file/13221-committee-for-redressal-of-sexual-harassment-of-women-employee/' >
+					Sexual Harassment Committee
+				</a></li>-->
+
+		 </ul>
+	    </div><!-- End Of menu-link Div -->   
+		
+      
+      
+       </div>
+</div>
+	   <div class='ipsGrid'>
+	
+	
+	
+	<div class='ipsGrid_span1'>
+       
+      <a class="ipsButton ipsButton_verySmall ipsButton_link" href="/home/">Homepage</a>
+      
+       </div>
+         <div class='ipsGrid_span1'>
+       
+      <a class="ipsButton ipsButton_verySmall ipsButton_link" href="/about/about-eci/">About ECI</a>
+      
+       </div>
+
+ <div class='ipsGrid_span1'>
+       
+      <a class="ipsButton ipsButton_verySmall ipsButton_link" href="/gallery/">Gallery</a>
+          </div>
+          <div class='ipsGrid_span1'>
+       
+      <a class="ipsButton ipsButton_verySmall ipsButton_link" href="/files/"style="
+    margin-left: -10px;">Downloads</a>
+          </div>
+         <div class='ipsGrid_span1'>
+       
+      <a class="ipsButton ipsButton_verySmall ipsButton_link" href="/faqs">FAQs</a>
+          </div>
+          <div class='ipsGrid_span1' style="margin-left: 0px; margin-right: 5px;">
+       
+      <a class="ipsButton ipsButton_verySmall ipsButton_link" href="/files/category/6-my-vote-mattersnewsletter/">My Vote Matters</a>
+          </div>
+     <!--       <div class='ipsGrid_span1' style="margin-left: 70px; " >
+       
+      <a class="ipsButton ipsButton_verySmall ipsButton_link" href="http://indiaawebcentre.org/index.php?/ievp2020/" target="_blank">IEVP 2020</a>
+          </div>
+
+         <div class='ipsGrid_span1'>
+       
+     
+           <a class="ipsButton ipsButton_verySmall ipsButton_link" href="/eci-mobile-app/" style="
+    margin-left: 20px;">ECI Mobile APPs for Elections</a>-->
+      
+       </div>
+        <!-- <div class='ipsGrid_span2' style="margin-right:50px">
+       
+     
+
+	<div id="elSearchWrapper">
+		<div id='elSearch' class='' data-controller='core.front.core.quickSearch'>
+			<form accept-charset='utf-8' action='//eci.gov.in/search/?do=quicksearch' method='post'>
+				<input type='search' id='elSearchField' placeholder='Search...' name='q' autocomplete='off' aria-label='Search'>
+				<button class='cSearchSubmit' type="submit" aria-label='Search'><i class="fa fa-search"></i></button>
+				<div id="elSearchExpanded">
+					<div class="ipsMenu_title">
+						Search In
+					</div>
+					<ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-role="searchContexts">
+						<li>
+							<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='all'>
+								<input type="radio" name="type" value="all" checked id="elQuickSearchRadio_type_all">
+								<label for='elQuickSearchRadio_type_all' id='elQuickSearchRadio_type_all_label'>Everywhere</label>
+							</span>
+						</li>
+						
+						
+							<li>
+								<span class='ipsSideMenu_item' data-ipsMenuValue='cms_records21'>
+									<input type="radio" name="type" value="cms_records21" id="elQuickSearchRadio_type_cms_records21">
+									<label for='elQuickSearchRadio_type_cms_records21' id='elQuickSearchRadio_type_cms_records21_label'>ECI IT Applications</label>
+								</span>
+							</li>
+						
+						
+							
+								<li>
+									<span class='ipsSideMenu_item' data-ipsMenuValue='contextual_{&quot;type&quot;:&quot;cms_records21&quot;,&quot;nodes&quot;:77}'>
+										<input type="radio" name="type" value='contextual_{&quot;type&quot;:&quot;cms_records21&quot;,&quot;nodes&quot;:77}' id='elQuickSearchRadio_type_contextual_177608a1ab6af4ee10869b3308dadc96'>
+										<label for='elQuickSearchRadio_type_contextual_177608a1ab6af4ee10869b3308dadc96' id='elQuickSearchRadio_type_contextual_177608a1ab6af4ee10869b3308dadc96_label'>This Category</label>
+									</span>
+								</li>
+							
+								<li>
+									<span class='ipsSideMenu_item' data-ipsMenuValue='contextual_{&quot;type&quot;:&quot;cms_records21&quot;,&quot;item&quot;:9}'>
+										<input type="radio" name="type" value='contextual_{&quot;type&quot;:&quot;cms_records21&quot;,&quot;item&quot;:9}' id='elQuickSearchRadio_type_contextual_3d9591a630577557d7f8af3a27d466cf'>
+										<label for='elQuickSearchRadio_type_contextual_3d9591a630577557d7f8af3a27d466cf' id='elQuickSearchRadio_type_contextual_3d9591a630577557d7f8af3a27d466cf_label'>This ECI IT Applications</label>
+									</span>
+								</li>
+							
+						
+						<li data-role="showMoreSearchContexts">
+							<span class='ipsSideMenu_item' data-action="showMoreSearchContexts" data-exclude="cms_records21">
+								More options...
+							</span>
+						</li>
+					</ul>
+					<div class="ipsMenu_title">
+						Find results that contain...
+					</div>
+					<ul class='ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal' role="radiogroup" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-filterType='andOr'>
+						
+							<li>
+								<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='and'>
+									<input type="radio" name="search_and_or" value="and" checked id="elRadio_andOr_and">
+									<label for='elRadio_andOr_and' id='elField_andOr_label_and'><em>All</em> of my search term words</label>
+								</span>
+							</li>
+						
+							<li>
+								<span class='ipsSideMenu_item ' data-ipsMenuValue='or'>
+									<input type="radio" name="search_and_or" value="or"  id="elRadio_andOr_or">
+									<label for='elRadio_andOr_or' id='elField_andOr_label_or'><em>Any</em> of my search term words</label>
+								</span>
+							</li>
+						
+					</ul>
+					<div class="ipsMenu_title">
+						Find results in...
+					</div>
+					<ul class='ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal' role="radiogroup" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-filterType='searchIn'>
+						<li>
+							<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='all'>
+								<input type="radio" name="search_in" value="all" checked id="elRadio_searchIn_and">
+								<label for='elRadio_searchIn_and' id='elField_searchIn_label_all'>Content titles and body</label>
+							</span>
+						</li>
+						<li>
+							<span class='ipsSideMenu_item' data-ipsMenuValue='titles'>
+								<input type="radio" name="search_in" value="titles" id="elRadio_searchIn_titles">
+								<label for='elRadio_searchIn_titles' id='elField_searchIn_label_titles'>Content titles only</label>
+							</span>
+						</li>
+					</ul>
+				</div>
+			</form>
+		</div>
+	</div>
+
+      
+       </div>-->
+</div>
+	 
+   </div><!-- End Of main-menu Div -->	
+</div>	
+</div>
+  <script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <script type="text/javascript">
+	$(document).ready(function(){
+	  $('.menu-btn').on('click',function(){
+		 $('.main-menu').slideToggle(); 
+	  }); 	
+	});	
+  </script>	
+	
+
+
+				
+<ul id='elMobileNav' class='ipsResponsive_hideDesktop' data-controller='core.front.core.mobileNav'>
+	
+		
+			
+			
+				
+				
+			
+				
+					<li id='elMobileBreadcrumb'>
+						<a href='https://eci.gov.in/it-applications/mobile-applications/'>
+							<span>Mobile Applications</span>
+						</a>
+					</li>
+				
+				
+			
+				
+				
+			
+		
+	
+	
+	
+	<li >
+		<a data-action="defaultStream" href='https://eci.gov.in/discover/followed-members/'><i class="fa fa-newspaper-o" aria-hidden="true"></i></a>
+	</li>
+
+	
+
+	
+		<li class='ipsJS_show'>
+			<a href='https://eci.gov.in/search/'><i class='fa fa-search'></i></a>
+		</li>
+	
+</ul>
+			
+            
+              
+      </div>
+		
+		
+
+
+
+
+
+
+<main id="ipsLayout_body" class="ipsLayout_container">
+ 
+
+<div class="ta_NT">
+	<div class="newsTicker">
+    <div class="ta_tickerTitle"><span><i class="fa fa-newspaper-o"></i>News Ticker</span></div>
+		<div class="ta_tickerStatus"><span><i class="fa fa-pause" aria-hidden="true" data-ipstooltip _title="Pause"></i><i class="fa fa-forward" aria-hidden="true" data-ipstooltip _title="Continue"></i></span></div>
+			<ul id="ta_webticker">
+				
+				<li> <a href="https://results.eci.gov.in/" >
+General Election/Bye Election 2022: Results Trends  
+  </a></li>
+<li> <a href="https://eci.gov.in/files/file/14103-schedule-for-bye-election-in-40-asansol-pc-of-west-bengal-and-4four-assembly-%09constituencies-of-west-bengal-chhattisgarh-bihar-and-maharashtra%E2%80%93-reg/" >Schedule for Bye-election in 40-Asansol P.C. of West Bengal and 4(Four) Assembly Constituencies of West Bengal, Chhattisgarh, Bihar and Maharashtra– reg.
+</a></li>
+<!--<li> <a href="https://eci.gov.in/files/category/1574-observer/" >
+ Lists of Observers deployed of ensuing General Elections-2022
+  
+  </a></li>-->
+
+
+
+<li> <a href="https://eci.gov.in/it-applications/mobile-applications/%E2%80%98know-your-candidate%E2%80%99-mobile-application-r62/" >‘Know Your Candidate’ Mobile Application </a></li>
+
+<!--
+<li> <a href="https://eci.gov.in/files/file/13932-broad-guidelines-for-conduct-of-general-electionsbye-elections-during-covid-19/" >Revised Broad Guidelines for conduct of General Elections/Bye-elections during COVID-19
+</a></li>
+
+
+
+<li> <a href="https://results.eci.gov.in/" >Click here to see the Trends and Results for the Bye-Elections of various States</a></li>-->
+
+
+<!--
+<li> Download Voter Turnout App, to view approximate voter turnout (<a href="https://play.google.com/store/apps/details?id=in.gov.eci.pollturnout&hl=en_IN" target="_blank">Play Store</a> | <a href="https://apps.apple.com/in/app/voter-turnout-app/id1536366882"  target="_blank">App Store</a>)</li>
+-->
+				
+					
+					
+
+					
+				
+		</ul>
+	</div>
+</div>
+<div style=" margin-left: -15px; margin-right: -15px;">
+          
+          
+
+
+
+
+
+
+              	
+       
+          
+        </div>
+			<div id="ipsLayout_contentArea">
+				
+	
+	
+		
+
+
+	
+<div id="ipsLayout_contentWrapper">
+					
+<nav class='ipsBreadcrumb ipsBreadcrumb_top ipsFaded_withHover'>
+	
+
+	<ul class='ipsList_inline ipsPos_right'>
+		
+		<li >
+			<a data-action="defaultStream" class='ipsType_light '  href='https://eci.gov.in/discover/followed-members/'><i class="fa fa-newspaper-o" aria-hidden="true"></i> <span>New File</span></a>
+		</li>
+		
+	</ul>
+
+	<ul data-role="breadcrumbList">
+		<li>
+			<a title="Home" href='https://eci.gov.in/'>
+				<span>Home <i class='fa fa-angle-right'></i></span>
+			</a>
+		</li>
+		
+		
+			<li>
+				
+					<a href='https://eci.gov.in/it-applications/'>
+						<span>IT Applications <i class='fa fa-angle-right' aria-hidden="true"></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://eci.gov.in/it-applications/mobile-applications/'>
+						<span>Mobile Applications <i class='fa fa-angle-right' aria-hidden="true"></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					BLO Net Mobile App
+				
+			</li>
+		
+	</ul>
+</nav>
+					
+					<div id="ipsLayout_mainArea">
+						
+						
+						
+						
+
+	
+
+
+
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='horizontal' data-widgetArea='header'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox  ipsResponsive_block' data-blockID='app_cms_Database_r3ym2qjvw' data-blockConfig="true" data-blockTitle="Database" data-blockErrorMessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page."  data-controller='core.front.widgets.block'>
+<div class='ipsPageHeader ipsBox ipsResponsive_pull ipsPadding ipsClearfix'>
+	<div class='ipsFlex ipsFlex-ai:center ipsFlex-fw:wrap ipsGap:4'>
+		<div class='ipsFlex-flex:11'>
+			<h1 class='ipsType_pageTitle ipsContained_container'>
+				
+
+				
+				
+				
+				
+					<span class='ipsType_break ipsContained'>BLO Net Mobile App</span>
+				
+			</h1>
+			
+		</div>
+		<div class='ipsFlex-flex:00'>
+			
+		</div>
+	</div>
+
+	<hr class='ipsHr'>
+	<div class='ipsPageHeader__meta ipsFlex ipsFlex-jc:between ipsFlex-ai:center ipsFlex-fw:wrap ipsGap:3'>
+		<div class='ipsFlex-flex:11'>
+			<div class='ipsPhotoPanel ipsPhotoPanel_tiny ipsClearfix'>
+				
+
+	<span class='ipsUserPhoto ipsUserPhoto_tiny '>
+		<img src='https://eci.gov.in/uploads/monthly_2018_04/1245450328_eci-logo(2).thumb.png.61aa12e34b87891dec94e08da2bac051.png' alt='ECI' loading="lazy">
+	</span>
+
+				<div>
+					<p class='ipsType_reset ipsType_large ipsType_blendLinks'>
+						By 
+
+
+ECI
+						
+						
+					</p>
+					<ul class='ipsList_inline'>
+						<li><time datetime='2020-02-18T10:58:54Z' title='Tuesday 18 February 2020 10:58 ' data-short='2 yr'>February 18, 2020</time></li>
+						
+							
+						
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class='ipsFlex-flex:00 ipsResponsive_hidePhone'>
+			<div class='ipsFlex ipsFlex-ai:center ipsGap:3 ipsGap_row:0'>
+				
+					
+
+
+    <a href='#elShareItem_1261454549_menu' id='elShareItem_1261454549' data-ipsMenu class='ipsShareButton ipsButton ipsButton_verySmall ipsButton_link ipsButton_link--light'>
+        <span><i class='fa fa-share-alt'></i></span> &nbsp;Share
+    </a>
+
+    <div class='ipsPadding ipsMenu ipsMenu_auto ipsHide' id='elShareItem_1261454549_menu' data-controller="core.front.core.sharelink">
+        <ul class='ipsList_inline'>
+            
+                <li>
+<a href="http://twitter.com/share?url=https%3A%2F%2Feci.gov.in%2Fit-applications%2Fmobile-applications%2Fblo-net-mobile-app-r9%2F" class="cShareLink cShareLink_twitter" target="_blank" data-role="shareLink" title='Share on Twitter' data-ipsTooltip rel='noopener'>
+	<i class="fa fa-twitter"></i>
+</a></li>
+            
+                <li>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Feci.gov.in%2Fit-applications%2Fmobile-applications%2Fblo-net-mobile-app-r9%2F" class="cShareLink cShareLink_facebook" target="_blank" data-role="shareLink" title='Share on Facebook' data-ipsTooltip rel='noopener'>
+	<i class="fa fa-facebook"></i>
+</a></li>
+            
+                <li>
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Feci.gov.in%2Fit-applications%2Fmobile-applications%2Fblo-net-mobile-app-r9%2F&amp;title=BLO+Net+Mobile+App" class="cShareLink cShareLink_linkedin" target="_blank" data-role="shareLink" title='Share on LinkedIn' data-ipsTooltip rel='noopener'>
+	<i class="fa fa-linkedin"></i>
+</a></li>
+            
+        </ul>
+        
+            <hr class='ipsHr'>
+            <button class='ipsHide ipsButton ipsButton_verySmall ipsButton_light ipsButton_fullWidth ipsMargin_top:half' data-controller='core.front.core.webshare' data-role='webShare' data-webShareTitle='BLO Net Mobile App' data-webShareText='BLO Net Mobile App' data-webShareUrl='https://eci.gov.in/it-applications/mobile-applications/blo-net-mobile-app-r9/'>More sharing options...</button>
+        
+    </div>
+
+				
+				
+
+
+
+				
+
+<div data-followApp='cms' data-followArea='records21' data-followID='9' data-controller='core.front.core.followButton'>
+	
+
+	<a href='https://eci.gov.in/ssh1211/' class="ipsFollow ipsPos_middle ipsButton ipsButton_light ipsButton_verySmall " data-role="followButton" data-ipsTooltip title='Sign in to follow this'>
+		<span>Followers</span>
+		<span class='ipsCommentCount'>1</span>
+	</a>
+
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+	
+
+
+
+<article class='ipsContained ipsSpacer_top ipsBox ipsResponsive_pull'>
+	<div class='ipsClearfix ipsPadding '>
+		
+			<div class="cCmsRecord_image">
+				<img class="ipsImage" src="https://eci.gov.in/uploads/monthly_2022_01/347670739_blonet-mobileapp.thumb.PNG.866558c424b2d3539d83e338f0cb8d0b.PNG">
+			</div>
+		
+		<section class="ipsType_richText ipsContained ipsType_normal" data-controller='core.front.core.lightboxedImages'><p>
+	<span style="font-size:20px;">B</span><span style="font-size:18px;">ooth Level officers used to verify and collect details of electors and probable electors through visiting each and every elector and collecting their papers for any kind of services required by them. There are more than a million BLOs across the country. As no online system or mobile App was present, BLOs had to submit all their documents to the ERO office for further processing. This was not only tedious and labour intensive but also delayed the process of form processing. A need was felt to bring such a service that could collect the digital data at their doorstep. A mobile app BLO-Net was launched to connect all the BLOs to the ERO office which also eliminated the need of digitization of supporting documents.  </span>
+</p>
+
+<p>
+	<span style="font-size:18px;">BLO-Net is a mobile app designed specially for Booth level Officers to provide online processing mechanism for claims, objections and enrollment received online/ offline. BLO-Net offers a rich interface to the BLOs where BLOs can verify the elector details, upload documents and provide their remarks for further processing of the forms.</span>
+</p>
+
+<p>
+	<span style="font-size:18px;">Election Commission of India provided an application to Booth Level Officer (BLO) to verify each elector’s entry, correct the errors and enable deletion of verified register death cases under the EVP program.  It helps to avoid data entry, which often causes mistakes. Moreover it saves a large amount of paperwork thereby bringing economies of time and cost. </span>
+</p>
+
+<p>
+	<span style="font-size:26px;">Features</span>
+</p>
+
+<ol><li>
+		<span style="font-size:18px;">Download Electoral List: This feature allows BLO to download Elector’s list from this tab. This will be saved in the phone memory. </span>
+	</li>
+	<li>
+		<span style="font-size:18px;">Verification of Electoral Detail:</span>
+		<ol><li>
+				<span style="font-size:18px;">My EVP Dashboard</span>
+			</li>
+			<li>
+				<span style="font-size:18px;">Verification of data furnished</span>
+			</li>
+			<li>
+				<span style="font-size:18px;">Collection and verification of data</span>
+			</li>
+			<li>
+				<span style="font-size:18px;">Verification of polling station</span>
+			</li>
+		</ol></li>
+	<li>
+		<span style="font-size:18px;">Collections and Verification of Data:</span>
+		<ol><li>
+				<span style="font-size:18px;">Electoral verification</span>
+			</li>
+			<li>
+				<span style="font-size:18px;">Family tagging verification</span>
+			</li>
+		</ol></li>
+</ol><p>
+	<span style="font-size:26px;">Outcome</span><br><span style="font-size:18px;">With the launch of BLO Net app, the verification and form submission has been simplified and BLO can directly perform all his duties from the app.</span>
+</p>
+</section>
+		
+		
+		
+		
+	</div>
+	
+	
+	<div class='ipsItemControls'>
+		
+			
+
+	<div data-controller='core.front.core.reaction' class='ipsItemControls_right ipsClearfix '>	
+		<div class='ipsReact ipsPos_right'>
+			
+				
+				<div class='ipsReact_blurb ipsHide' data-role='reactionBlurb'>
+					
+				</div>
+			
+			
+			
+		</div>
+	</div>
+
+		
+		<ul class='ipsComment_controls ipsClearfix ipsItemControls_left'>
+			
+			
+			
+		</ul>
+	</div>
+</article>
+
+<div class='ipsBox ipsPadding ipsResponsive_pull ipsResponsive_showPhone ipsMargin_top'>
+	
+		<div class='ipsResponsive_noFloat ipsResponsive_block ipsMargin_bottom:half'>
+			
+
+
+    <a href='#elShareItem_606013664_menu' id='elShareItem_606013664' data-ipsMenu class='ipsShareButton ipsButton ipsButton_verySmall ipsButton_light '>
+        <span><i class='fa fa-share-alt'></i></span> &nbsp;Share
+    </a>
+
+    <div class='ipsPadding ipsMenu ipsMenu_auto ipsHide' id='elShareItem_606013664_menu' data-controller="core.front.core.sharelink">
+        <ul class='ipsList_inline'>
+            
+                <li>
+<a href="http://twitter.com/share?url=https%3A%2F%2Feci.gov.in%2Fit-applications%2Fmobile-applications%2Fblo-net-mobile-app-r9%2F" class="cShareLink cShareLink_twitter" target="_blank" data-role="shareLink" title='Share on Twitter' data-ipsTooltip rel='noopener'>
+	<i class="fa fa-twitter"></i>
+</a></li>
+            
+                <li>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Feci.gov.in%2Fit-applications%2Fmobile-applications%2Fblo-net-mobile-app-r9%2F" class="cShareLink cShareLink_facebook" target="_blank" data-role="shareLink" title='Share on Facebook' data-ipsTooltip rel='noopener'>
+	<i class="fa fa-facebook"></i>
+</a></li>
+            
+                <li>
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Feci.gov.in%2Fit-applications%2Fmobile-applications%2Fblo-net-mobile-app-r9%2F&amp;title=BLO+Net+Mobile+App" class="cShareLink cShareLink_linkedin" target="_blank" data-role="shareLink" title='Share on LinkedIn' data-ipsTooltip rel='noopener'>
+	<i class="fa fa-linkedin"></i>
+</a></li>
+            
+        </ul>
+        
+            <hr class='ipsHr'>
+            <button class='ipsHide ipsButton ipsButton_verySmall ipsButton_light ipsButton_fullWidth ipsMargin_top:half' data-controller='core.front.core.webshare' data-role='webShare' data-webShareTitle='BLO Net Mobile App' data-webShareText='BLO Net Mobile App' data-webShareUrl='https://eci.gov.in/it-applications/mobile-applications/blo-net-mobile-app-r9/'>More sharing options...</button>
+        
+    </div>
+
+		</div>
+	
+	<div class='ipsResponsive_noFloat ipsResponsive_block'>
+		
+
+<div data-followApp='cms' data-followArea='records21' data-followID='9' data-controller='core.front.core.followButton'>
+	
+
+	<a href='https://eci.gov.in/ssh1211/' class="ipsFollow ipsPos_middle ipsButton ipsButton_light ipsButton_verySmall " data-role="followButton" data-ipsTooltip title='Sign in to follow this'>
+		<span>Followers</span>
+		<span class='ipsCommentCount'>1</span>
+	</a>
+
+</div>
+	</div>
+	
+</div>
+
+<div class='ipsPager ipsSpacer_top'>
+	<div class="ipsPager_prev">
+		
+			<a href="https://eci.gov.in/it-applications/mobile-applications/" title="Go to Mobile Applications" rel="up">
+				<span class="ipsPager_type">Go to ECI IT Applications</span>
+			</a>
+		
+	</div>
+	
+</div>
+
+<br>
+
+
+<br>
+
+</li>
+				
+			
+		</ul>
+	</div>
+
+						
+<div id="elCmsPageWrap" data-pageid="255">
+
+<div>
+	<div class='ipsGrid ipsGrid_collapsePhone'>
+		<div class='ipsGrid_span6'>
+			
+
+		</div>
+		<div class='ipsGrid_span6'>
+			
+
+		</div>
+	</div>
+</div>
+</div>
+						
+
+
+					</div>
+					
+
+
+	<div id='ipsLayout_sidebar' class='ipsLayout_sidebarright ' data-controller='core.front.widgets.sidebar'>
+		
+		
+		
+		
+
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='vertical' data-widgetArea='sidebar'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox  ipsResponsive_block' data-blockID='app_cms_Blocks_dl8imf39f' data-blockConfig="true" data-blockTitle="Custom Blocks" data-blockErrorMessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page."  data-controller='core.front.widgets.block'>
+<div class="ipsResponsive_hidePhone ipsResponsive_showDesktop">
+     
+	<h3 class='ipsWidget_title ipsType_reset'>Mobile Applications</h3>
+	
+		<div class='ipsPad_half ipsWidget_inner'>
+			<ul class='ipsDataList ipsDataList_reducedSpacing ipsContained_container'>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/mobile-applications/%E2%80%98know-your-candidate%E2%80%99-mobile-application-r62/?do=getLastComment" title='View the ECI IT Applications Know Your Candidate' class='ipsDataItem_title'>Know Your Candidate</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/mobile-applications/candidate-app-election-permission-r55/?do=getLastComment" title='View the ECI IT Applications Candidate App - Election Permission' class='ipsDataItem_title'>Candidate App - Election Permission</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/mobile-applications/nodal-app-election-permission-r53/?do=getLastComment" title='View the ECI IT Applications Nodal App - Election Permission' class='ipsDataItem_title'>Nodal App - Election Permission</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/mobile-applications/voter-turnout-apps-r47/?do=getLastComment" title='View the ECI IT Applications Voter Turnout APPs' class='ipsDataItem_title'>Voter Turnout APPs</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/mobile-applications/booth-app-r37/?do=getLastComment" title='View the ECI IT Applications Booth App' class='ipsDataItem_title'>Booth App</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/mobile-applications/cvigil-mobile-apps-r35/?do=getLastComment" title='View the ECI IT Applications cVIGIL Mobile APPs' class='ipsDataItem_title'>cVIGIL Mobile APPs</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/mobile-applications/voter-helpline-app-r27/?do=getLastComment" title='View the ECI IT Applications Voter Helpline App' class='ipsDataItem_title'>Voter Helpline App</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/mobile-applications/the-person-with-disabilities-app-r25/?do=getLastComment" title='View the ECI IT Applications The person with Disabilities App' class='ipsDataItem_title'>The person with Disabilities App</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/mobile-applications/observer-app-r23/?do=getLastComment" title='View the ECI IT Applications Observer APP' class='ipsDataItem_title'>Observer APP</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/mobile-applications/blo-net-mobile-app-r9/?do=getLastComment" title='View the ECI IT Applications BLO Net Mobile App' class='ipsDataItem_title'>BLO Net Mobile App</a>
+							</div>
+							
+						</div>
+					</li>
+				
+			</ul>
+		</div>
+	
+
+</div></li>
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox  ipsResponsive_block' data-blockID='app_cms_Blocks_dyksas2g9' data-blockConfig="true" data-blockTitle="Custom Blocks" data-blockErrorMessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page."  data-controller='core.front.widgets.block'>
+
+	<h3 class='ipsWidget_title ipsType_reset'>Web Applications</h3>
+	
+		<div class='ipsPad_half ipsWidget_inner'>
+			<ul class='ipsDataList ipsDataList_reducedSpacing ipsContained_container'>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/candidate-nomination-application-r61/?do=getLastComment" title='View the ECI IT Applications Candidate Nomination Application' class='ipsDataItem_title'>Candidate Nomination Application</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/candidate-scrutiny-application-r59/?do=getLastComment" title='View the ECI IT Applications Candidate Scrutiny Application' class='ipsDataItem_title'>Candidate Scrutiny Application</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/election-permissions-portal-r57/?do=getLastComment" title='View the ECI IT Applications Election Permissions Portal' class='ipsDataItem_title'>Election Permissions Portal</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/affidavit-portal-r51/?do=getLastComment" title='View the ECI IT Applications Affidavit Portal' class='ipsDataItem_title'>Affidavit Portal</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/voter-turnout-r49/?do=getLastComment" title='View the ECI IT Applications Voter Turnout' class='ipsDataItem_title'>Voter Turnout</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/election-counting-application-r45/?do=getLastComment" title='View the ECI IT Applications Election Counting Application' class='ipsDataItem_title'>Election Counting Application</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/results-trends-tv-r43/?do=getLastComment" title='View the ECI IT Applications Results Trends TV' class='ipsDataItem_title'>Results Trends TV</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/index-card-statistical-reporting-r41/?do=getLastComment" title='View the ECI IT Applications Index Card &amp; Statistical Reporting' class='ipsDataItem_title'>Index Card &amp; Statistical Reporting</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/expenditure-monitoring-r39/?do=getLastComment" title='View the ECI IT Applications Expenditure Monitoring' class='ipsDataItem_title'>Expenditure Monitoring</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/cvigil-portal-r33/?do=getLastComment" title='View the ECI IT Applications cVIGIL Portal' class='ipsDataItem_title'>cVIGIL Portal</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/mcc-relaxation-violation-portal-r31/?do=getLastComment" title='View the ECI IT Applications MCC Relaxation &amp; Violation Portal' class='ipsDataItem_title'>MCC Relaxation &amp; Violation Portal</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/evm-management-system-ems-r29/?do=getLastComment" title='View the ECI IT Applications EVM Management System (EMS)' class='ipsDataItem_title'>EVM Management System (EMS)</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/eci-website-r21/?do=getLastComment" title='View the ECI IT Applications ECI Website' class='ipsDataItem_title'>ECI Website</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/sveep-website-r19/?do=getLastComment" title='View the ECI IT Applications SVEEP WEBSITE' class='ipsDataItem_title'>SVEEP WEBSITE</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/rti-online-portal-r17/?do=getLastComment" title='View the ECI IT Applications RTI Online Portal' class='ipsDataItem_title'>RTI Online Portal</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/political-parties-registration-tracking-management-system-r15/?do=getLastComment" title='View the ECI IT Applications Political Parties Registration Tracking Management System' class='ipsDataItem_title'>Political Parties Registration Tracking Management System</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/ero-net-r13/?do=getLastComment" title='View the ECI IT Applications ERO NET' class='ipsDataItem_title'>ERO NET</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/national-voter-services-portal-r11/?do=getLastComment" title='View the ECI IT Applications National Voter Services Portal' class='ipsDataItem_title'>National Voter Services Portal</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/etpbs-r7/?do=getLastComment" title='View the ECI IT Applications ETPBS' class='ipsDataItem_title'>ETPBS</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/service-voter-registration-portal-r5/?do=getLastComment" title='View the ECI IT Applications Service Voter Registration Portal' class='ipsDataItem_title'>Service Voter Registration Portal</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/observer-portal-r3/?do=getLastComment" title='View the ECI IT Applications Observer Portal' class='ipsDataItem_title'>Observer Portal</a>
+							</div>
+							
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						
+						<div class='ipsDataItem_main cWidgetComments'>
+							
+							<div class='ipsType_break ipsContained'>
+								<a href="https://eci.gov.in/it-applications/web-applications/national-grievance-services-portal-r1/?do=getLastComment" title='View the ECI IT Applications National Grievance Services Portal' class='ipsDataItem_title'>National Grievance Services Portal</a>
+							</div>
+							
+						</div>
+					</li>
+				
+			</ul>
+		</div>
+	
+</li>
+				
+			
+		</ul>
+	</div>
+
+	</div>
+
+					
+<nav class='ipsBreadcrumb ipsBreadcrumb_bottom ipsFaded_withHover'>
+	
+		
+
+
+	<a href='#' id='elRSS' class='ipsPos_right ipsType_large' title='Available RSS feeds' data-ipsTooltip data-ipsMenu data-ipsMenu-above><i class='fa fa-rss-square'></i></a>
+	<ul id='elRSS_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+		
+			<li class='ipsMenu_item'><a title="Election Commission of India" href="https://eci.gov.in/rss/1-election-commission-of-india.xml/">Election Commission of India</a></li>
+		
+	</ul>
+
+	
+
+	<ul class='ipsList_inline ipsPos_right'>
+		
+		<li >
+			<a data-action="defaultStream" class='ipsType_light '  href='https://eci.gov.in/discover/followed-members/'><i class="fa fa-newspaper-o" aria-hidden="true"></i> <span>New File</span></a>
+		</li>
+		
+	</ul>
+
+	<ul data-role="breadcrumbList">
+		<li>
+			<a title="Home" href='https://eci.gov.in/'>
+				<span>Home <i class='fa fa-angle-right'></i></span>
+			</a>
+		</li>
+		
+		
+			<li>
+				
+					<a href='https://eci.gov.in/it-applications/'>
+						<span>IT Applications <i class='fa fa-angle-right' aria-hidden="true"></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href='https://eci.gov.in/it-applications/mobile-applications/'>
+						<span>Mobile Applications <i class='fa fa-angle-right' aria-hidden="true"></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					BLO Net Mobile App
+				
+			</li>
+		
+	</ul>
+</nav>
+				</div>
+	
+	
+		
+
+
+	
+
+			
+
+</div>
+			
+		</main>
+
+      
+
+<div class="af_Container">
+		
+			
+				
+				
+				
+					<div class='af_Column ipsLayout_container af_columnID_1'>
+						
+						<div class='ipsColumns ipsColumns_collapseTablet' >
+							
+								
+
+<div class='ipsColumn af_quicklinksCol af_quicklinksCol_1' >
+	<div class="af_Content" >
+		<h3 >Quick Links</h3>
+			<section class='ipsType_normal ipsType_richText ipsType_break'  >
+				
+				
+					
+
+	<ul class='af_quicklinks' style='-webkit-column-count: 2;-moz-column-count: 2;column-count: 2;'>
+		
+			
+				<li><a href='https://voterportal.eci.gov.in/' class='ipsTruncate ipsTruncate_line' target='blank' title="Apply for Voter Card">Apply for Voter Card</a></li>
+			
+		
+			
+				<li><a href='https://eci-citizenservices.eci.nic.in/' class='ipsTruncate ipsTruncate_line' target='blank' title="Public Grievance">Public Grievance</a></li>
+			
+		
+			
+				<li><a href='https://rti.eci.nic.in' class='ipsTruncate ipsTruncate_line' target='blank' title="RTI Online">RTI Online</a></li>
+			
+		
+			
+				<li><a href='https://pprtms.eci.gov.in/' class='ipsTruncate ipsTruncate_line' target='blank' title="Political Parties Registration Tracking Management System">Political Parties Registration Tracking Management System</a></li>
+			
+		
+			
+				<li><a href='https://observerseci.eci.nic.in/' class='ipsTruncate ipsTruncate_line' target='blank' title="Observer Portal">Observer Portal</a></li>
+			
+		
+			
+				<li><a href='https://cvigil.eci.gov.in/mcc' class='ipsTruncate ipsTruncate_line' target='blank' title="MCC Cases">MCC Cases</a></li>
+			
+		
+			
+				<li><a href='https://play.google.com/store/apps/details?id=in.nic.eci.cvigil&amp;hl=en_US' class='ipsTruncate ipsTruncate_line' target='blank' title="Download cVIGIL">Download cVIGIL</a></li>
+			
+		
+			
+				<li><a href='https://affidavit.eci.gov.in/' class='ipsTruncate ipsTruncate_line' target='blank' title="Candidate Affidavits">Candidate Affidavits</a></li>
+			
+		
+	</ul>
+
+
+				
+				
+				
+				
+				
+				
+		</section>
+	</div>
+</div>
+
+
+							
+								
+
+<div class='ipsColumn af_quicklinksCol af_quicklinksCol_2' >
+	<div class="af_Content" >
+		<h3 >Media & Publications</h3>
+			<section class='ipsType_normal ipsType_richText ipsType_break'  >
+				
+				
+					
+
+	<ul class='af_quicklinks' style='-webkit-column-count: 2;-moz-column-count: 2;column-count: 2;'>
+		
+			
+				<li><a href='/files/category/10-current-issues/' class='ipsTruncate ipsTruncate_line'  title="Current Issues">Current Issues</a></li>
+			
+		
+			
+				<li><a href='/files/category/11-press-releases/' class='ipsTruncate ipsTruncate_line'  title="Press Releases">Press Releases</a></li>
+			
+		
+			
+				<li><a href='/important-instructions/' class='ipsTruncate ipsTruncate_line'  title="Important Instructions">Important Instructions</a></li>
+			
+		
+			
+				<li><a href='/files/category/3-handbooks/' class='ipsTruncate ipsTruncate_line'  title="Handbooks">Handbooks</a></li>
+			
+		
+			
+				<li><a href='/statistical-report/statistical-reports/' class='ipsTruncate ipsTruncate_line'  title="Results And Statistics">Results And Statistics</a></li>
+			
+		
+			
+				<li><a href='/files/category/4-manuals/' class='ipsTruncate ipsTruncate_line'  title="Manuals">Manuals</a></li>
+			
+		
+			
+				<li><a href='/files/category/8-compendium-of-instructions/' class='ipsTruncate ipsTruncate_line'  title="Compendium of Instructions">Compendium of Instructions</a></li>
+			
+		
+			
+				<li><a href='/files/category/112-eci-publication/' class='ipsTruncate ipsTruncate_line'  title="Library &amp; Publications">Library & Publications</a></li>
+			
+		
+	</ul>
+
+
+				
+				
+				
+				
+				
+				
+		</section>
+	</div>
+</div>
+
+
+							
+								
+
+<div class='ipsColumn af_quicklinksCol af_quicklinksCol_4' >
+	<div class="af_Content" >
+		<h3 >ECI Divisions</h3>
+			<section class='ipsType_normal ipsType_richText ipsType_break'  >
+				
+				
+					
+
+	<ul class='af_quicklinks' style='-webkit-column-count: 2;-moz-column-count: 2;column-count: 2;'>
+		
+			
+				<li><a href='/divisions-of-eci/communication' class='ipsTruncate ipsTruncate_line'  title="Communication">Communication</a></li>
+			
+		
+			
+				<li><a href='/delimitation-website/index/' class='ipsTruncate ipsTruncate_line'  title="Delimitation">Delimitation</a></li>
+			
+		
+			
+				<li><a href='/candidate-political-parties/expenditure-reports/expenditure-reports/' class='ipsTruncate ipsTruncate_line'  title="Expenditure">Expenditure</a></li>
+			
+		
+			
+				<li><a href='/divisions-of-eci/international-cooperation/' class='ipsTruncate ipsTruncate_line'  title="International Cooperation">International Cooperation</a></li>
+			
+		
+			
+				<li><a href='/divisions-of-eci/ict-apps/' class='ipsTruncate ipsTruncate_line'  title="ICT">ICT</a></li>
+			
+		
+			
+				<li><a href='/candidate-political-parties/' class='ipsTruncate ipsTruncate_line'  title="Political Parties">Political Parties</a></li>
+			
+		
+			
+				<li><a href='/divisions-of-eci/eps/' class='ipsTruncate ipsTruncate_line'  title="Election Planning">Election Planning</a></li>
+			
+		
+	</ul>
+
+
+				
+				
+				
+				
+				
+				
+		</section>
+	</div>
+</div>
+
+
+							
+								
+
+<div class='ipsColumn af_quicklinksCol af_quicklinksCol_10' >
+	<div class="af_Content" >
+		<h3 >Explore More</h3>
+			<section class='ipsType_normal ipsType_richText ipsType_break'  >
+				
+				
+					
+
+	<ul class='af_quicklinks' style='-webkit-column-count: 2;-moz-column-count: 2;column-count: 2;'>
+		
+			
+				<li><a href='http://ecisveep.nic.in/' class='ipsTruncate ipsTruncate_line' target='blank' title="SVEEP">SVEEP</a></li>
+			
+		
+			
+				<li><a href='http://indiaawebcentre.org/' class='ipsTruncate ipsTruncate_line' target='blank' title="India A-WEB Centre">India A-WEB Centre</a></li>
+			
+		
+			
+				<li><a href='http://servicevoter.nic.in/' class='ipsTruncate ipsTruncate_line' target='blank' title="Service Voter Portal">Service Voter Portal</a></li>
+			
+		
+			
+				<li><a href='http://voicenet.in/' class='ipsTruncate ipsTruncate_line' target='blank' title="VoiceNet">VoiceNet</a></li>
+			
+		
+			
+				<li><a href='/about/about-eci/' class='ipsTruncate ipsTruncate_line' target='blank' title="About ECI">About ECI</a></li>
+			
+		
+			
+				<li><a href='/honble-commission/' class='ipsTruncate ipsTruncate_line' target='blank' title="Commission">Commission</a></li>
+			
+		
+			
+				<li><a href='/contact-us/directory/' class='ipsTruncate ipsTruncate_line' target='blank' title="Officers Directory">Officers Directory</a></li>
+			
+		
+			
+				<li><a href='/contact-us/contact-us/' class='ipsTruncate ipsTruncate_line' target='blank' title="Contact Us">Contact Us</a></li>
+			
+		
+	</ul>
+
+
+				
+				
+				
+				
+				
+				
+		</section>
+	</div>
+</div>
+
+
+							
+						</div>
+					</div>
+				
+			
+		
+			
+				
+				
+				
+					<div class='af_Column ipsLayout_container af_columnID_4'>
+						
+							<div class="af_colSeparator">
+								
+									<svg style='fill: #0a2b38;' xmlns="http://www.w3.org/2000/svg" version="1.0" viewBox="0 0 1200 30" preserveAspectRatio="none"><path d="M0,0S1.209,1.508,200.671,7.031C375.088,15.751,454.658,30,600,30V0H0ZM1200,0s-90.21,1.511-200.671,7.034C824.911,15.751,745.342,30,600,30V0h600Z"></path></svg>
+								
+							</div>
+						
+						<div class='ipsColumns ipsColumns_collapseTablet' style='background-color: #0a2b38;'>
+							
+								
+
+<div class='ipsColumn af_customCol af_customCol_11' >
+	<div class="af_Content" >
+		<h3 >ECI Main Website</h3>
+			<section class='ipsType_normal ipsType_richText ipsType_break' data-ipsTruncate data-ipsTruncate-size='5 lines' data-ipsTruncate-type='hide' >
+				
+					<p>
+	<a class="ipsAttachLink ipsAttachLink_left" href="https://eci.gov.in/" rel="" style="float: left;"><img alt="ECI Main website" class="ipsImage" height="180" src="https://eci.gov.in/uploads/monthly_2018_10/eci-logo.png.2e8f591ce7b8147f8f3148bcd50de79e.png" style="width: 120px; height: auto;" width="200"></a>The Election Commission of India is an autonomous constitutional authority responsible for administering election processes in India. The body administers elections to the Lok Sabha, Rajya Sabha, State Legislative Assemblies in India, and the offices of the President and Vice President in the country. The Election Commission operates under the authority of Constitution per Article 324, and subsequently enacted Representation of the People Act. 
+</p>
+				
+				
+				
+				
+				
+				
+				
+		</section>
+	</div>
+</div>
+
+
+							
+								
+
+<div class='ipsColumn af_downloadsCol af_downloadsCol_12' >
+	<div class="af_Content" >
+		<h3 >Latest Publication</h3>
+			<section class='ipsType_normal ipsType_richText ipsType_break'  >
+				
+				
+				
+				
+				
+				
+					
+
+	<ul class="af_Downloads">
+		
+			<li>
+				<div class='af_itemsThumb'>
+					<span>
+						
+						
+
+
+	<span class=' ipsNoThumb ipsThumb ipsThumb_medium'></span>
+ 
+					</span>
+				</div>
+				<div class='af_itemsTitle'>
+					<span>
+						<a href='https://eci.gov.in/files/file/14125-sansad-ratna-awards-2022-address-by-hon%E2%80%99ble-chief-election-commissioner-of-india-sh-sushil-chandra/' class='ipsTruncate ipsTruncate_line' title='View the file Sansad Ratna Awards 2022 -Address by Hon’ble Chief Election Commissioner of India Sh. Sushil Chandra'>Sansad Ratna Awards 2022 -Address by Hon’ble Chief Election Commissioner of India Sh. Sushil Chandra</a>
+						<span class='af_itemsMeta'>By 
+
+
+Communication</span>
+					</span>
+				</div>
+			</li>
+		
+			<li>
+				<div class='af_itemsThumb'>
+					<span>
+						
+						
+
+
+	<span class=' ipsNoThumb ipsThumb ipsThumb_medium'></span>
+ 
+					</span>
+				</div>
+				<div class='af_itemsTitle'>
+					<span>
+						<a href='https://eci.gov.in/files/file/13976-pledging-to-vote-a-decadal-journey-of-the-national-voters%E2%80%99-day-in-india/' class='ipsTruncate ipsTruncate_line' title='View the file PLEDGING TO  VOTE A DECADAL JOURNEY  OF THE  NATIONAL VOTERS’ DAY IN INDIA'>PLEDGING TO  VOTE A DECADAL JOURNEY  OF THE  NATIONAL VOTERS’ DAY IN INDIA</a>
+						<span class='af_itemsMeta'>By 
+
+
+Communication</span>
+					</span>
+				</div>
+			</li>
+		
+			<li>
+				<div class='af_itemsThumb'>
+					<span>
+						
+						
+
+
+	<span class=' ipsNoThumb ipsThumb ipsThumb_medium'></span>
+ 
+					</span>
+				</div>
+				<div class='af_itemsTitle'>
+					<span>
+						<a href='https://eci.gov.in/files/file/13975-12th-national-voters-day-best-electoral-practices-awards-2021-2022/' class='ipsTruncate ipsTruncate_line' title='View the file 12th National Voters&#039; Day - Best Electoral Practices Awards 2021-2022'>12th National Voters&#039; Day - Best Electoral Practices Awards 2021-2022</a>
+						<span class='af_itemsMeta'>By 
+
+
+Communication</span>
+					</span>
+				</div>
+			</li>
+		
+	</ul>
+
+
+				
+				
+		</section>
+	</div>
+</div>
+
+
+							
+								
+
+<div class='ipsColumn af_downloadsCol af_downloadsCol_13' >
+	<div class="af_Content" >
+		<h3 >Forms Download</h3>
+			<section class='ipsType_normal ipsType_richText ipsType_break'  >
+				
+				
+				
+				
+				
+				
+					
+
+	<ul class="af_Downloads">
+		
+			<li>
+				<div class='af_itemsThumb'>
+					<span>
+						
+							
+								<span class="af_itemsStatus ipsBadge ipsBadge_icon ipsBadge_small ipsBadge_positive" data-ipsTooltip title='Pinned'><i class='fa fa-thumb-tack'></i></span>
+								
+							
+						
+						
+
+
+	
+	<span style='background-image: url( "https://eci.gov.in/uploads/monthly_2018_09/list-2389219_960_720.thumb.png.c62eeb455092929c1d563e143bb28136.png" )' class=' ipsThumb ipsThumb_medium ipsThumb_bg'>
+		<img src='https://eci.gov.in/uploads/monthly_2018_09/list-2389219_960_720.thumb.png.c62eeb455092929c1d563e143bb28136.png' alt=''>
+	</span>
+ 
+					</span>
+				</div>
+				<div class='af_itemsTitle'>
+					<span>
+						<a href='https://eci.gov.in/files/file/4843-form-6-application-for-inclusion-of-name-in-electoral-roll/' class='ipsTruncate ipsTruncate_line' title='View the file Form 6 - Application for inclusion of name in Electoral Roll.'>Form 6 - Application for inclusion of name in Electoral Roll.</a>
+						<span class='af_itemsMeta'>By 
+
+
+ECI</span>
+					</span>
+				</div>
+			</li>
+		
+			<li>
+				<div class='af_itemsThumb'>
+					<span>
+						
+							
+								<span class="af_itemsStatus ipsBadge ipsBadge_icon ipsBadge_small ipsBadge_positive" data-ipsTooltip title='Pinned'><i class='fa fa-thumb-tack'></i></span>
+								
+							
+						
+						
+
+
+	
+	<span style='background-image: url( "https://eci.gov.in/uploads/monthly_2018_09/list-2389219_960_720.thumb.png.0e0291ad83035dee4aa45086fe530132.png" )' class=' ipsThumb ipsThumb_medium ipsThumb_bg'>
+		<img src='https://eci.gov.in/uploads/monthly_2018_09/list-2389219_960_720.thumb.png.0e0291ad83035dee4aa45086fe530132.png' alt=''>
+	</span>
+ 
+					</span>
+				</div>
+				<div class='af_itemsTitle'>
+					<span>
+						<a href='https://eci.gov.in/files/file/4834-form-6a-application-for-inclusion-of-name-in-electoral-roll-by-an-overseas-indian-elector/' class='ipsTruncate ipsTruncate_line' title='View the file Form 6A - Application for inclusion of name in Electoral Roll by an overseas Indian elector.'>Form 6A - Application for inclusion of name in Electoral Roll by an overseas Indian elector.</a>
+						<span class='af_itemsMeta'>By 
+
+
+ECI</span>
+					</span>
+				</div>
+			</li>
+		
+			<li>
+				<div class='af_itemsThumb'>
+					<span>
+						
+							
+								<span class="af_itemsStatus ipsBadge ipsBadge_icon ipsBadge_small ipsBadge_positive" data-ipsTooltip title='Pinned'><i class='fa fa-thumb-tack'></i></span>
+								
+							
+						
+						
+
+
+	
+	<span style='background-image: url( "https://eci.gov.in/uploads/monthly_2018_09/list-2389219_960_720.thumb.png.e69e7836633ac4865af32320fabb58aa.png" )' class=' ipsThumb ipsThumb_medium ipsThumb_bg'>
+		<img src='https://eci.gov.in/uploads/monthly_2018_09/list-2389219_960_720.thumb.png.e69e7836633ac4865af32320fabb58aa.png' alt=''>
+	</span>
+ 
+					</span>
+				</div>
+				<div class='af_itemsTitle'>
+					<span>
+						<a href='https://eci.gov.in/files/file/4826-form-8-application-for-correction-to-particulars-entered-in-electoral-roll/' class='ipsTruncate ipsTruncate_line' title='View the file Form 8 - Application for correction to particulars entered in Electoral Roll.'>Form 8 - Application for correction to particulars entered in Electoral Roll.</a>
+						<span class='af_itemsMeta'>By 
+
+
+ECI</span>
+					</span>
+				</div>
+			</li>
+		
+	</ul>
+
+
+				
+				
+		</section>
+	</div>
+</div>
+
+
+							
+								
+
+<div class='ipsColumn af_customCol af_customCol_15' >
+	<div class="af_Content" >
+		<h3 >Voter Helpline App</h3>
+			<section class='ipsType_normal ipsType_richText ipsType_break' data-ipsTruncate data-ipsTruncate-size='5 lines' data-ipsTruncate-type='hide' >
+				
+					<p>
+	<a class="ipsAttachLink ipsAttachLink_left" href="https://play.google.com/store/apps/details?id=com.eci.citizen&amp;hl=en" rel="external nofollow" style="float: left;"><img alt="Voter Helpline" class="ipsImage ipsImage_thumbnailed" data-extension="core_Attachment" data-fileid="118" data-unique="cexgozu84" style="width: 120px; height: auto;" data-src="https://eci.gov.in/uploads/monthly_2019_01/frame.png.26c1e19c63f59899a2e937fff764ce0f.png" src="https://eci.gov.in/applications/core/interface/js/spacer.png"></a>Download our Mobile App <strong>'<a href="https://play.google.com/store/apps/details?id=com.eci.citizen&amp;hl=en" rel="external nofollow">Voter Helpline</a>'</strong> from <a href="https://play.google.com/store/apps/details?id=com.eci.citizen&amp;hl=en" rel="external nofollow">Play Store</a> and <a href="https://apps.apple.com/us/app/voter-helpline/id1456535004" rel="external nofollow">App Store</a>. The  App 'Voter Helpline' provides you easy searching of your name in Electoral Roll, filling up online forms, knowing about Elections, and most importantly, lodging grievance. You will have access to everything about Election Commission of India. You can view the latest Press release, Current News, Events, Gallery and much more. You can also track your form application and status of your grievance. Click here to download. Don't forget to give your feedback from the link provided within the Application.
+</p>
+				
+				
+				
+				
+				
+				
+				
+		</section>
+	</div>
+</div>
+
+
+							
+						</div>
+					</div>
+				
+			
+		
+			
+		
+</div>
+
+
+
+		
+			<footer id="ipsLayout_footer" class="ipsClearfix"><div class="ipsLayout_container">
+					
+					
+
+<ul id='elFooterSocialLinks' class='ipsList_inline ipsType_center ipsSpacer_top'>
+	
+
+	
+		<li class='cUserNav_icon'>
+			<a href='https://www.facebook.com/eci/' target='_blank' class='cShareLink cShareLink_facebook' rel='noopener noreferrer'><i class='fa fa-facebook'></i></a>
+		</li>
+	
+		<li class='cUserNav_icon'>
+			<a href='https://www.youtube.com/eci/' target='_blank' class='cShareLink cShareLink_youtube' rel='noopener noreferrer'><i class='fa fa-youtube'></i></a>
+		</li>
+	
+		<li class='cUserNav_icon'>
+			<a href='https://twitter.com/ECISVEEP' target='_blank' class='cShareLink cShareLink_twitter' rel='noopener noreferrer'><i class='fa fa-twitter'></i></a>
+		</li>
+	
+		<li class='cUserNav_icon'>
+			<a href='https://www.instagram.com/ecisveep/' target='_blank' class='cShareLink cShareLink_instagram' rel='noopener noreferrer'><i class='fa fa-instagram'></i></a>
+		</li>
+	
+
+</ul>
+
+
+<ul class='ipsList_inline ipsType_center ipsSpacer_top' id="elFooterLinks">
+	
+	
+	
+	
+		<li>
+			<a href='#elNavTheme_menu' id='elNavTheme' data-ipsMenu data-ipsMenu-above>Theme <i class='fa fa-caret-down'></i></a>
+			<ul id='elNavTheme_menu' class='ipsMenu ipsMenu_selectable ipsHide'>
+			
+				<li class='ipsMenu_item'>
+					<form action="//eci.gov.in/theme/?csrfKey=57f642b69cefba9654cb6eb929987a91" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9lY2kuZ292LmluL2l0LWFwcGxpY2F0aW9ucy9tb2JpbGUtYXBwbGljYXRpb25zL2Jsby1uZXQtbW9iaWxlLWFwcC1yOS8=">
+					<button type='submit' name='id' value='23' class='ipsButton ipsButton_link ipsButton_link_secondary'>Modern 4.5 </button>
+					</form>
+				</li>
+			
+				<li class='ipsMenu_item'>
+					<form action="//eci.gov.in/theme/?csrfKey=57f642b69cefba9654cb6eb929987a91" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9lY2kuZ292LmluL2l0LWFwcGxpY2F0aW9ucy9tb2JpbGUtYXBwbGljYXRpb25zL2Jsby1uZXQtbW9iaWxlLWFwcC1yOS8=">
+					<button type='submit' name='id' value='25' class='ipsButton ipsButton_link ipsButton_link_secondary'>High Contrast 4.7 </button>
+					</form>
+				</li>
+			
+				<li class='ipsMenu_item ipsMenu_itemChecked'>
+					<form action="//eci.gov.in/theme/?csrfKey=57f642b69cefba9654cb6eb929987a91" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9lY2kuZ292LmluL2l0LWFwcGxpY2F0aW9ucy9tb2JpbGUtYXBwbGljYXRpb25zL2Jsby1uZXQtbW9iaWxlLWFwcC1yOS8=">
+					<button type='submit' name='id' value='26' class='ipsButton ipsButton_link ipsButton_link_secondary'>Modern 4.7 (Default)</button>
+					</form>
+				</li>
+			
+			</ul>
+		</li>
+  <li>
+          <a href='/website-policy/privacy-policy-r5/'>Privacy Policy</a>
+		</li>
+  <li>
+          <a href='/website-policy/copyright-r4/'>Content Copyright</a>
+		</li>
+  <li>
+          <a href='/website-policy/hyperlinking-policy-r3/'>Content Hyperlinking</a>
+		</li>
+  <li>
+          <a href='/website-policy/terms-conditions-r2/'>Terms &amp; Conditions</a>
+		</li>
+  <li>
+          <a href='/website-policy/abbreviationsacronym-r1/'>Abbreviations</a>
+		</li>
+  <li>
+          <a href='/sitemap/'>Site Map</a>
+		</li>
+	
+	
+	
+</ul>	
+<div id="elCopyright" class="ipsType_center ipsSpacer_top" style="text-align:center;font-size: 11px;"><a href="https://eci.gov.in/divisions-of-eci/ict-apps/" target="_blank">Made in ECI</a></div>
+
+
+<p id='elCopyright'>
+	<span id='elCopyright_userLine'>© Copyright Election Commission of India<br> Current version of website updated on 24.02.2020</span>
+	
+</p>
+				</div>
+			</footer>
+			
+
+<div id="elMobileDrawer" class="ipsDrawer ipsHide">
+	<div class="ipsDrawer_menu">
+		<a href="#" class="ipsDrawer_close" data-action="close"><span>×</span></a>
+		<div class="ipsDrawer_content">
+<ul id="elUserNav_mobile" class="ipsList_inline signed_in ipsClearfix">
+	
+
+
+</ul>
+
+			
+				<div class="ipsPadding">
+					
+				</div>
+			
+
+			<ul class="ipsDrawer_list">
+				
+
+				
+				
+				
+				
+					
+						
+						
+							<li><a href="https://eci.gov.in" >Home</a></li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://eci.gov.in/candidate-political-parties/instructions-on-covid-19/" >Instructions on Covid-19</a></li>
+						
+					
+				
+					
+				
+					
+						
+						
+							<li><a href="https://eci.gov.in/files/category/10-current-issues/" >Current Issues</a></li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://eci.gov.in/files/category/11-press-releases/" >Press Releases</a></li>
+						
+					
+				
+					
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="#">Electors</a></h4>
+								<ul class="ipsDrawer_list">
+<li data-action="back"><a href="#">Back</a></li>
+
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://voterportal.eci.gov.in/' target='_blank' rel="noopener">
+					Register to Vote
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://voterportal.eci.gov.in/' target='_blank' rel="noopener">
+					Track Your Application
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/electoral-roll/forms/' >
+					Download Forms
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='http://servicevoter.nic.in/' target='_blank' rel="noopener">
+					Service Voters
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/voter/overseas-electors/' >
+					Overseas Electors
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/persons-with-disabilities/' >
+					Persons with Disabilities
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/electoral-roll/electoral-roll/' >
+					Electoral Roll
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci-citizenservices.eci.nic.in/' target='_blank' rel="noopener">
+					Lodge a Complain
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/faqs/' >
+					FAQs
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='http://ecisveep.nic.in' target='_blank' rel="noopener">
+					Voter Education
+				</a>
+			</li>
+		
+	
+
+										
+								</ul>
+</li>
+						
+					
+				
+					
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="#">Elections</a></h4>
+								<ul class="ipsDrawer_list">
+<li data-action="back"><a href="#">Back</a></li>
+
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/elections/currentelections/' >
+					Current Elections
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/elections/future-elections/' >
+					Future Elections
+				</a>
+			</li>
+		
+	
+
+	
+		
+			
+			<li class='ipsDrawer_itemParent'>
+				<h4 class='ipsDrawer_title'><a href='#'>Past Elections</a></h4>
+				<ul class='ipsDrawer_list'>
+					<li data-action="back"><a href='#'>Back</a></li>
+					
+					
+
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/assembly-election/assembly-election/' >
+					Assembly Election
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/general-election/general-election/' >
+					General Election
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/bye-election/bye-elections/' >
+					Bye Elections
+				</a>
+			</li>
+		
+	
+
+				</ul>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/statistical-report/election-results/' >
+					Results and Statistics
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/electoral-roll/electoral-roll/' >
+					Electoral Roll
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/election-laws/election-law/' >
+					Election Law
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/mcc/' >
+					Model Code of Conduct
+				</a>
+			</li>
+		
+	
+
+	
+		
+			
+			<li class='ipsDrawer_itemParent'>
+				<h4 class='ipsDrawer_title'><a href='#'>Judicial Reference</a></h4>
+				<ul class='ipsDrawer_list'>
+					<li data-action="back"><a href='#'>Back</a></li>
+					
+					
+
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/files/category/15-office-of-profit/' >
+					Office of Profit (Reference Cases)
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/files/category/16-orders-notices-model-code-of-conduct/' >
+					Model Code of Conduct
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/files/category/17-orders-notices-miscellaneous/' >
+					Miscellaneous
+				</a>
+			</li>
+		
+	
+
+				</ul>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/election-manifestos/' >
+					Election Manifestos
+				</a>
+			</li>
+		
+	
+
+										
+								</ul>
+</li>
+						
+					
+				
+					
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="#">EVM/VVPAT</a></h4>
+								<ul class="ipsDrawer_list">
+<li data-action="back"><a href="#">Back</a></li>
+
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/files/file/9228-evm-credibility-technological-and-administrative-safeguards/' >
+					Presentation on EVM
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/files/file/8756-status-paper-on-evm-edition-3/' >
+					Status Paper on EVM
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/faqs/evm/general-qa/electronic-voting-machine-r2/' >
+					FAQs on EVM
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/files/file/13911-manual-on-electronic-voting-machine-and-vvpat-december-2021/' >
+					Manual on EVM and VVPAT
+				</a>
+			</li>
+		
+	
+
+										
+								</ul>
+</li>
+						
+					
+				
+					
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="#">Candidate / Political Party</a></h4>
+								<ul class="ipsDrawer_list">
+<li data-action="back"><a href="#">Back</a></li>
+
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/candidate-political-parties/nomination-related-forms/' >
+					Candidate Nomination & other Forms
+				</a>
+			</li>
+		
+	
+
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/candidate-political-parties/link-to-candidate-affidavits/' >
+					Links to Candidate Affidavits
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/candidate-political-parties/political-parties-registration/' >
+					Political Parties Registration
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/candidate-political-parties/election-symbol/' >
+					Political Parties & Election Symbol
+				</a>
+			</li>
+		
+	
+
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/candidate-political-parties/instructions-on-covid-19/' >
+					Instructions on Covid-19
+				</a>
+			</li>
+		
+	
+
+										
+								</ul>
+</li>
+						
+					
+				
+					
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="#">Media & Publication</a></h4>
+								<ul class="ipsDrawer_list">
+<li data-action="back"><a href="#">Back</a></li>
+
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/statistical-report/statistical-reports/' >
+					Election Results & Statics
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/media-publication/publication/' >
+					ECI Publications
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/files/category/8-compendium-of-instructions/' >
+					Compendium of Instructions
+				</a>
+			</li>
+		
+	
+
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/election-laws/election-law/' >
+					Election Law
+				</a>
+			</li>
+		
+	
+
+										
+								</ul>
+</li>
+						
+					
+				
+					
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="#">About ECI</a></h4>
+								<ul class="ipsDrawer_list">
+<li data-action="back"><a href="#">Back</a></li>
+
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/divisions-of-eci/divisions-of-eci/' >
+					Divisions of ECI
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/contact-us/directory/' >
+					ECI Officials Contact Details
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/files/' >
+					Downloads
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/contact-us/contact-us/' >
+					Contact Us
+				</a>
+			</li>
+		
+	
+
+										
+								</ul>
+</li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://eci.gov.in/gallery/" >Gallery</a></li>
+						
+					
+				
+					
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="#">For ECI Officials</a></h4>
+								<ul class="ipsDrawer_list">
+<li data-action="back"><a href="#">Back</a></li>
+
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/eci-officials/' >
+					Quick Links for ECI Officials
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://eci.gov.in/important-instructions/' >
+					Important Instructions
+				</a>
+			</li>
+		
+	
+
+										
+								</ul>
+</li>
+						
+					
+				
+					
+				
+					
+						
+						
+							<li><a href="https://hindi.eci.gov.in/" >हिंदी में देखें </a></li>
+						
+					
+				
+				
+			</ul>
+</div>
+	</div>
+</div>
+
+<div id="elMobileCreateMenuDrawer" class="ipsDrawer ipsHide">
+	<div class="ipsDrawer_menu">
+		<a href="#" class="ipsDrawer_close" data-action="close"><span>×</span></a>
+		<div class="ipsDrawer_content ipsSpacer_bottom ipsPad">
+			<ul class="ipsDrawer_list">
+<li class="ipsDrawer_listTitle ipsType_reset">Create New...</li>
+				
+			</ul>
+</div>
+	</div>
+</div>
+
+			
+			
+
+	
+	<script type='text/javascript'>
+		var ipsDebug = false;		
+	
+		var CKEDITOR_BASEPATH = '//eci.gov.in/applications/core/interface/ckeditor/ckeditor/';
+	
+		var ipsSettings = {
+			
+			
+			cookie_path: "/",
+			
+			cookie_prefix: "ips4_",
+			
+			
+			cookie_ssl: true,
+			
+			upload_imgURL: "",
+			message_imgURL: "",
+			notification_imgURL: "",
+			baseURL: "//eci.gov.in/",
+			jsURL: "//eci.gov.in/applications/core/interface/js/js.php",
+			csrfKey: "57f642b69cefba9654cb6eb929987a91",
+			antiCache: "885e69150d1646648658",
+			jsAntiCache: "885e69150d1647436946",
+			disableNotificationSounds: true,
+			useCompiledFiles: true,
+			links_external: true,
+			memberID: 0,
+			lazyLoadEnabled: true,
+			blankImg: "//eci.gov.in/applications/core/interface/js/spacer.png",
+			analyticsProvider: "ga",
+			viewProfiles: false,
+			mapProvider: 'none',
+			mapApiKey: '',
+			pushPublicKey: "BPwVFgAkZXIjC-KemcyRPLr6u6Qonknc4xmd2C6ifLf6phDaSCvN4xMqwPdEHKAg_IjN-T-krxJrymYuz_-q4nc",
+			relativeDates: true
+		};
+		
+		
+		
+		
+			ipsSettings['maxImageDimensions'] = {
+				width: 1200,
+				height: 1000
+			};
+		
+		
+	</script>
+
+
+
+
+
+<script type='text/javascript' src='https://eci.gov.in/uploads/javascript_global/root_library.js?v=885e69150d1647436946' data-ips></script>
+
+
+<script type='text/javascript' src='https://eci.gov.in/uploads/javascript_global/root_js_lang_1.js?v=885e69150d1647436946' data-ips></script>
+
+
+<script type='text/javascript' src='https://eci.gov.in/uploads/javascript_global/root_framework.js?v=885e69150d1647436946' data-ips></script>
+
+
+<script type='text/javascript' src='https://eci.gov.in/uploads/javascript_core/global_global_core.js?v=885e69150d1647436946' data-ips></script>
+
+
+<script type='text/javascript' src='https://eci.gov.in/uploads/javascript_core/plugins_plugins.js?v=885e69150d1647436946' data-ips></script>
+
+
+<script type='text/javascript' src='https://eci.gov.in/uploads/javascript_global/root_front.js?v=885e69150d1647436946' data-ips></script>
+
+
+<script type='text/javascript' src='https://eci.gov.in/uploads/javascript_core/front_front_core.js?v=885e69150d1647436946' data-ips></script>
+
+
+<script type='text/javascript' src='https://eci.gov.in/uploads/page_objects/bootstrap4.js.d7c8055113c007bc37470d45b3a44fef.js?v=885e69150d1647436946' data-ips></script>
+
+
+<script type='text/javascript' src='https://eci.gov.in/uploads/javascript_cms/front_app.js?v=885e69150d1647436946' data-ips></script>
+
+
+<script type='text/javascript' src='https://eci.gov.in/uploads/javascript_global/root_map.js?v=885e69150d1647436946' data-ips></script>
+
+
+
+	<script type='text/javascript'>
+		
+			ips.setSetting( 'date_format', jQuery.parseJSON('"wednesday dd mm yy"') );
+		
+			ips.setSetting( 'date_first_day', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'ipb_url_filter_option', jQuery.parseJSON('"none"') );
+		
+			ips.setSetting( 'url_filter_any_action', jQuery.parseJSON('"allow"') );
+		
+			ips.setSetting( 'bypass_profanity', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'emoji_style', jQuery.parseJSON('"native"') );
+		
+			ips.setSetting( 'emoji_shortcodes', jQuery.parseJSON('true') );
+		
+			ips.setSetting( 'emoji_ascii', jQuery.parseJSON('true') );
+		
+			ips.setSetting( 'emoji_cache', jQuery.parseJSON('1631866961') );
+		
+			ips.setSetting( 'image_jpg_quality', jQuery.parseJSON('90') );
+		
+			ips.setSetting( 'cloud2', jQuery.parseJSON('false') );
+		
+		
+	</script>
+
+
+
+<script type='application/ld+json'>
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "url": "https://eci.gov.in/it-applications/mobile-applications/blo-net-mobile-app-r9/",
+    "discussionUrl": "https://eci.gov.in/it-applications/mobile-applications/blo-net-mobile-app-r9/",
+    "mainEntityOfPage": "https://eci.gov.in/it-applications/mobile-applications/blo-net-mobile-app-r9/",
+    "name": "BLO Net Mobile App",
+    "headline": "BLO Net Mobile App",
+    "text": "Booth Level officers used to verify and collect details of electors and probable electors through visiting each and every elector and collecting their papers for any kind of services required by them. There are more than a million BLOs across the country. As no online system or mobile App was present, BLOs had to submit all their documents to the ERO office for further processing. This was not only tedious and labour intensive but also delayed the process of form processing. A need was felt to bring such a service that could collect the digital data at their doorstep. A mobile app BLO-Net was launched to connect all the BLOs to the ERO office which also eliminated the need of digitization of supporting documents. \u00a0\n \n\n\n\tBLO-Net is a mobile app designed specially for Booth level Officers to provide online processing mechanism for claims, objections and enrollment received online/ offline. BLO-Net offers a rich interface to the BLOs where BLOs can verify the elector details, upload documents and provide their remarks for further processing of the forms.\n \n\n\n\tElection Commission of India provided an application to Booth Level Officer (BLO) to verify each elector\u2019s entry, correct the errors and enable deletion of verified register death cases under the EVP program. \u00a0It helps to avoid data entry, which often causes mistakes. Moreover it saves a large amount of paperwork thereby bringing economies of time and cost.\u00a0\n \n\n\n\tFeatures\n \n\n\n\t\tDownload Electoral List: This feature allows BLO to download Elector\u2019s list\u00a0from this tab. This will be saved in the phone memory.\u00a0\n\t \n\t\n\t\tVerification of Electoral Detail:\n\t\t\n\t\t\t\tMy EVP Dashboard\n\t\t\t \n\t\t\t\n\t\t\t\tVerification of data furnished\n\t\t\t \n\t\t\t\n\t\t\t\tCollection and verification of data\n\t\t\t \n\t\t\t\n\t\t\t\tVerification of polling station\n\t\t\t \n\t\t \n\t\n\t\tCollections and Verification of Data:\n\t\t\n\t\t\t\tElectoral verification\n\t\t\t \n\t\t\t\n\t\t\t\tFamily tagging verification\n\t\t\t \n\t\t \n\n\tOutcome With the launch of BLO Net app, the verification and form submission has been simplified and BLO can directly perform all his duties from the app.\n \n",
+    "articleBody": "Booth Level officers used to verify and collect details of electors and probable electors through visiting each and every elector and collecting their papers for any kind of services required by them. There are more than a million BLOs across the country. As no online system or mobile App was present, BLOs had to submit all their documents to the ERO office for further processing. This was not only tedious and labour intensive but also delayed the process of form processing. A need was felt to bring such a service that could collect the digital data at their doorstep. A mobile app BLO-Net was launched to connect all the BLOs to the ERO office which also eliminated the need of digitization of supporting documents. \u00a0\n \n\n\n\tBLO-Net is a mobile app designed specially for Booth level Officers to provide online processing mechanism for claims, objections and enrollment received online/ offline. BLO-Net offers a rich interface to the BLOs where BLOs can verify the elector details, upload documents and provide their remarks for further processing of the forms.\n \n\n\n\tElection Commission of India provided an application to Booth Level Officer (BLO) to verify each elector\u2019s entry, correct the errors and enable deletion of verified register death cases under the EVP program. \u00a0It helps to avoid data entry, which often causes mistakes. Moreover it saves a large amount of paperwork thereby bringing economies of time and cost.\u00a0\n \n\n\n\tFeatures\n \n\n\n\t\tDownload Electoral List: This feature allows BLO to download Elector\u2019s list\u00a0from this tab. This will be saved in the phone memory.\u00a0\n\t \n\t\n\t\tVerification of Electoral Detail:\n\t\t\n\t\t\t\tMy EVP Dashboard\n\t\t\t \n\t\t\t\n\t\t\t\tVerification of data furnished\n\t\t\t \n\t\t\t\n\t\t\t\tCollection and verification of data\n\t\t\t \n\t\t\t\n\t\t\t\tVerification of polling station\n\t\t\t \n\t\t \n\t\n\t\tCollections and Verification of Data:\n\t\t\n\t\t\t\tElectoral verification\n\t\t\t \n\t\t\t\n\t\t\t\tFamily tagging verification\n\t\t\t \n\t\t \n\n\tOutcome With the launch of BLO Net app, the verification and form submission has been simplified and BLO can directly perform all his duties from the app.\n \n",
+    "dateCreated": "2020-02-18T10:58:55+0000",
+    "datePublished": "2020-02-18T10:58:54+0000",
+    "dateModified": "2022-01-19T07:44:52+0000",
+    "pageStart": 1,
+    "pageEnd": 1,
+    "author": {
+        "@type": "Person",
+        "name": "ECI",
+        "image": "https://eci.gov.in/uploads/monthly_2018_04/1245450328_eci-logo(2).thumb.png.61aa12e34b87891dec94e08da2bac051.png",
+        "url": "https://eci.gov.in/profile/2-eci/"
+    },
+    "publisher": {
+        "@id": "https://eci.gov.in/#organization",
+        "member": {
+            "@type": "Person",
+            "name": "ECI",
+            "image": "https://eci.gov.in/uploads/monthly_2018_04/1245450328_eci-logo(2).thumb.png.61aa12e34b87891dec94e08da2bac051.png",
+            "url": "https://eci.gov.in/profile/2-eci/"
+        },
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://eci.gov.in/uploads/monthly_2021_09/logo.png.829b3416fb87a2de458726dbefb72fd7.png"
+        }
+    },
+    "interactionStatistic": [
+        {
+            "@type": "InteractionCounter",
+            "interactionType": "http://schema.org/ViewAction",
+            "userInteractionCount": 68937
+        },
+        {
+            "@type": "InteractionCounter",
+            "interactionType": "http://schema.org/FollowAction",
+            "userInteractionCount": 0
+        }
+    ],
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://eci.gov.in/uploads/monthly_2020_02/347670739_blonet-mobileapp.PNG.a70cafcfece8c681188990b766a842d9.PNG"
+    }
+}	
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "publisher": "https://eci.gov.in/#organization",
+    "@type": "WebSite",
+    "@id": "https://eci.gov.in/#website",
+    "mainEntityOfPage": "https://eci.gov.in/",
+    "name": "Election Commission of India",
+    "url": "https://eci.gov.in/",
+    "potentialAction": {
+        "type": "SearchAction",
+        "query-input": "required name=query",
+        "target": "https://eci.gov.in/search/?q={query}"
+    },
+    "inLanguage": [
+        {
+            "@type": "Language",
+            "name": "English (USA)",
+            "alternateName": "en-IN"
+        }
+    ]
+}	
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "@type": "Organization",
+    "@id": "https://eci.gov.in/#organization",
+    "mainEntityOfPage": "https://eci.gov.in/",
+    "name": "Election Commission of India",
+    "url": "https://eci.gov.in/",
+    "logo": {
+        "@type": "ImageObject",
+        "@id": "https://eci.gov.in/#logo",
+        "url": "https://eci.gov.in/uploads/monthly_2021_09/logo.png.829b3416fb87a2de458726dbefb72fd7.png"
+    },
+    "sameAs": [
+        "https://www.facebook.com/eci/",
+        "https://www.youtube.com/eci/",
+        "https://twitter.com/ECISVEEP",
+        "https://www.instagram.com/ecisveep/"
+    ],
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nirvachan Sadan Ashoka Road",
+        "addressLocality": "Delhi",
+        "addressRegion": "Delhi",
+        "postalCode": "110001",
+        "addressCountry": "IN"
+    }
+}	
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://eci.gov.in/it-applications/",
+                "name": "IT Applications"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://eci.gov.in/it-applications/mobile-applications/",
+                "name": "Mobile Applications"
+            }
+        }
+    ]
+}	
+</script>
+
+
+			
+			
+		
+		<!--ipsQueryLog-->
+		<!--ipsCachingLog-->
+		
+		
+			
+		
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.2/js/swiper.min.js"></script><script type="text/javascript">
+    var swiper = new Swiper('.swiper-container', {
+      preloadImages: false,
+      lazy: {
+        loadPrevNext: true,
+        preloaderClass: 'Ta-lazyPreloader-wrapper',
+      },
+      parallax: true,
+      grabCursor: true,
+      effect: 'fade',
+      loop: true,
+      
+  		autoplay: {
+    		delay: 6000,
+  		},
+      
+      
+      
+      	navigation: {
+    		nextEl: '.swiper-next',
+    		prevEl: '.swiper-prev',
+  	  	},
+      
+    });
+</script><script type="text/javascript">
+;( function($, _, undefined){
+    "use strict";
+    ips.controller.register('ta_swiperslider.toggle', {
+        initialize: function () {
+          this.on( 'click', '[data-do="hide"]', this.dismissslider);
+        },
+				dismissslider: function (e) {
+    			if( $('.ta_Slider').hasClass('ta_hideSlider') ){
+    				ips.utils.cookie.unset('tahideSlider');
+    			} else {
+    				ips.utils.cookie.set('tahideSlider', true, true);
+    			}
+          $('.ta_Slider').toggleClass('ta_hideSlider');
+    		}
+        
+    });
+}(jQuery, _));
+</script><script type="text/javascript">
+if (null !== document.querySelector("#ta_webticker") ) {
+$("#ta_webticker").webTicker({
+    height: '50px',
+  	speed: 70,
+  	hoverpause: true
+});
+
+$(".ta_tickerStatus .fa-pause").click(function(){
+    $("#ta_webticker").webTicker('stop');
+});
+$(".ta_tickerStatus .fa-forward").click(function(){
+    $("#ta_webticker").webTicker('cont');
+});
+
+}
+</script></body></html>
